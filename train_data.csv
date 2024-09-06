@@ -1,0 +1,2001 @@
+Id,Age,MF,LoE,YoW,YoCW,Income,Housing,Car,Res
+0,60,F,Bach,4,4,4759451,R,False,Accept
+1,60,F,Bach,4,4,4759451,R,False,Accept
+2,76,M,Bach,8,8,8237019,R,True,Accept
+3,28,M,Ad. Dip,4,4,9114804,R,False,Accept
+4,44,M,Ad. Dip,16,5,998868,R,False,Reject
+5,62,M,Bach,12,7,912294,R,True,Accept
+6,63,M,Bach,3,3,2411292,R,False,Accept
+7,65,M,Dip,13,4,5583648,R,True,Reject
+8,41,M,Mst,6,3,7591621,O,False,Reject
+9,42,F,Mst,18,11,5462646,R,False,Accept
+10,62,M,Ad. Dip,15,8,1394389,R,True,Reject
+11,77,M,Dip,16,7,2940425,R,True,Reject
+12,50,M,P. Doct,9,9,5094060,R,True,Accept
+13,45,M,Mst,11,8,4658830,R,True,Accept
+14,50,M,Mst,1,1,4209565,R,False,Accept
+15,57,M,Doct,15,14,2625566,R,True,Accept
+16,70,M,Bach,12,8,3983449,R,False,Accept
+17,70,M,Bach,12,8,3983449,R,False,Accept
+18,22,M,Bach,0,0,2297340,R,False,Accept
+19,59,F,Mst,1,1,5712282,R,False,Accept
+20,26,M,Mst,12,9,1706479,R,False,Accept
+21,47,M,Mst,3,3,9173731,R,False,Accept
+22,32,M,Dip,12,9,555482,R,False,Reject
+23,25,M,Mst,12,12,8340826,R,True,Accept
+24,73,M,Doct,16,11,7872203,R,False,Accept
+25,22,M,Mst,3,3,9311367,R,False,Accept
+26,65,M,Bach,6,6,7767461,O,False,Accept
+27,70,M,Bach,6,6,6028273,R,True,Accept
+28,40,F,Ad. Dip,10,9,7790773,R,NaN,Accept
+29,53,M,Mst,8,8,2201976,R,True,Reject
+30,32,M,Ad. Dip,12,5,5734542,R,False,Accept
+31,41,M,Bach,11,7,6305461,R,True,Accept
+32,55,M,Dip,16,8,9472148,R,False,Accept
+33,68,M,Mst,9,8,9287205,N,False,Accept
+34,56,M,Bach,5,4,7331180,R,False,Accept
+35,62,M,Mst,17,14,5086925,R,False,Accept
+36,32,F,Ad. Dip,10,10,4552514,R,True,Accept
+37,46,M,Bach,8,6,7321831,R,False,Accept
+38,41,M,Bach,8,8,9961539,O,True,Accept
+39,74,M,Ad. Dip,0,0,6809745,R,True,Accept
+40,24,M,Bach,18,5,7936020,R,False,Accept
+41,51,M,Bach,17,8,5470140,N,False,Accept
+42,37,M,Bach,6,6,9312608,R,True,Accept
+43,23,M,Bach,0,0,383282,R,True,Accept
+44,60,M,Bach,19,5,2582382,R,False,Accept
+45,45,M,Doct,13,5,4807368,O,True,Accept
+46,49,M,Bach,0,0,4387681,R,False,Accept
+47,57,M,Bach,12,8,9530702,R,False,Accept
+48,79,M,Dip,7,7,2810048,R,False,Reject
+49,66,F,Bach,3,3,8199311,R,True,Accept
+50,36,M,Ad. Dip,11,4,890951,O,True,Reject
+51,55,M,Bach,18,10,3861206,R,False,Accept
+52,53,M,Ad. Dip,6,6,9352887,R,True,Accept
+53,78,M,Ad. Dip,18,5,3654298,R,True,Accept
+54,68,M,Dip,1,1,1810800,R,False,Reject
+55,60,M,Doct,20,7,6775535,R,False,Accept
+56,50,M,Mst,5,5,1760376,R,False,Accept
+57,53,M,Bach,12,11,6565653,O,False,Reject
+58,21,M,Bach,11,6,7280359,R,False,Reject
+59,23,M,Bach,0,0,383282,R,True,Accept
+60,78,M,Doct,6,6,4957836,R,False,Accept
+61,41,M,Bach,9,7,1930730,R,False,Accept
+62,48,M,Dip,18,10,5356329,N,False,Accept
+63,67,M,Mst,20,8,1960176,R,True,Accept
+64,68,M,Mst,9,9,651402,R,True,Accept
+65,43,F,Bach,4,4,7059372,O,False,Reject
+66,31,M,Bach,9,9,9723891,R,True,Accept
+67,68,M,Mst,9,9,651402,R,True,Accept
+68,64,F,Bach,7,7,2212744,R,False,Accept
+69,26,M,P. Doct,11,11,2408696,R,False,Accept
+70,72,F,P. Doct,18,4,220528,R,False,Accept
+71,70,M,NaN,1,1,4001896,R,False,Accept
+72,78,M,Bach,8,8,3062422,R,False,Accept
+73,68,M,Doct,4,4,7087601,R,False,Accept
+74,60,M,Mst,15,14,6669896,R,True,Accept
+75,59,M,Mst,10,6,4925213,N,True,Accept
+76,45,M,Bach,10,5,62100,R,True,Accept
+77,56,M,Doct,15,8,9299383,R,False,Reject
+78,24,M,Ad. Dip,18,4,6258651,R,False,Accept
+79,77,M,Doct,19,6,510754,R,False,Accept
+80,62,M,Mst,19,13,1198501,R,False,Accept
+81,75,F,Doct,3,3,9634930,R,False,Accept
+82,23,M,Bach,3,3,7217848,R,False,Accept
+83,47,M,Ad. Dip,7,4,5110841,R,False,Accept
+84,70,M,Mst,1,1,4400395,R,False,Accept
+85,47,M,Bach,6,6,3483388,R,False,Accept
+86,34,M,Bach,12,9,6634248,R,False,Accept
+87,61,M,Mst,9,9,527900,R,True,Reject
+88,62,M,Bach,8,8,5688746,R,True,Accept
+89,62,M,P. Doct,17,5,8536742,R,False,Accept
+90,28,M,Doct,19,13,7282131,R,False,Accept
+91,27,M,Doct,2,2,7275614,R,False,Accept
+92,23,M,Bach,3,3,7217848,R,False,Accept
+93,75,M,Dip,6,6,1061632,R,True,Reject
+94,33,M,Bach,6,6,3169625,R,False,Accept
+95,77,M,Mst,18,14,8830162,R,False,Accept
+96,32,M,Bach,15,3,2541624,R,False,Reject
+97,22,M,Ad. Dip,2,2,8437491,R,False,Reject
+98,62,M,Mst,0,0,7990740,R,False,Accept
+99,44,M,Mst,10,5,4228700,R,False,Accept
+100,58,F,Doct,3,3,93979,R,False,Accept
+101,26,M,Ad. Dip,18,10,759604,R,False,Reject
+102,42,M,Dip,10,4,5238649,O,True,Accept
+103,60,M,Mst,15,14,6669896,R,True,Accept
+104,52,M,Bach,7,7,2162328,R,False,Accept
+105,26,M,Mst,7,4,9338129,R,False,Accept
+106,75,F,Mst,13,13,1500447,R,False,Reject
+107,62,M,Bach,8,8,5688746,R,True,Accept
+108,67,F,Bach,13,4,8768562,R,False,Accept
+109,58,F,Doct,3,3,9397962,R,False,Accept
+110,69,M,Dip,8,6,8171432,O,True,Accept
+111,47,M,Mst,0,0,9292764,O,False,Accept
+112,45,M,Doct,19,4,1091777,NaN,True,Accept
+113,23,M,Mst,13,9,8769550,R,False,Reject
+114,76,M,Bach,10,10,6856239,R,False,Reject
+115,34,M,Ad. Dip,13,11,6035837,R,False,Accept
+116,61,M,Mst,11,6,3392005,R,False,Accept
+117,57,M,Mst,17,5,4503934,R,False,Accept
+118,74,M,Mst,9,5,9693465,R,False,Accept
+119,73,M,Mst,5,5,2149916,R,True,Accept
+120,78,M,Ad. Dip,18,5,3654298,R,True,Accept
+121,78,M,Bach,0,0,4660756,R,True,Accept
+122,40,M,Dip,17,7,9842681,N,False,Accept
+123,27,M,Ad. Dip,16,14,1697857,R,False,Reject
+124,44,M,Bach,14,8,8723131,R,True,Accept
+125,69,M,Dip,9,9,4516990,R,False,Reject
+126,57,M,Dip,19,9,6420146,R,True,Accept
+127,37,M,Mst,5,5,6357644,R,False,Accept
+128,28,M,Ad. Dip,7,7,3753824,R,False,Accept
+129,72,M,Bach,19,6,2791693,R,False,Accept
+130,28,M,Dip,5,5,5929358,R,True,Accept
+131,40,M,Doct,3,3,6200661,R,False,Accept
+132,70,M,Mst,19,13,5778620,R,True,Accept
+133,79,M,Dip,6,6,9936818,R,False,Accept
+134,58,M,Doct,9,5,4186842,R,True,Accept
+135,41,M,Bach,14,10,5053629,R,False,Accept
+136,66,M,P. Doct,8,3,6152081,R,False,Accept
+137,42,M,P. Doct,18,10,3259645,R,False,Accept
+138,70,M,Bach,12,8,3983449,R,False,Accept
+139,53,M,Doct,18,12,9757979,R,False,Accept
+140,37,M,Ad. Dip,14,12,3741822,R,False,Accept
+141,26,M,Mst,16,9,2604480,R,False,Accept
+142,41,M,Mst,8,3,1752625,R,False,Accept
+143,52,M,Bach,7,7,2162328,R,False,Accept
+144,41,M,Mst,5,5,8001918,R,False,Accept
+145,27,M,Ad. Dip,12,4,182326,R,True,Reject
+146,60,M,Ad. Dip,7,7,9390552,R,True,Accept
+147,40,M,Ad. Dip,6,6,2948884,R,True,Reject
+148,68,M,Bach,20,11,6973369,R,False,Reject
+149,56,M,Bach,12,12,848202,R,True,Accept
+150,45,M,Dip,9,9,1425186,N,True,Reject
+151,37,M,Mst,8,8,3080904,R,False,Reject
+152,60,M,Bach,0,0,7037465,R,False,Accept
+153,61,M,Dip,9,4,5316246,R,True,Accept
+154,21,M,Bach,11,6,7280359,R,False,Reject
+155,44,F,P. Doct,19,8,2764757,R,False,Accept
+156,32,M,Ad. Dip,12,5,5734542,R,False,Accept
+157,76,M,Bach,9,9,90178,R,False,Accept
+158,50,M,Mst,1,1,4209565,R,False,Reject
+159,47,M,Bach,2,2,3453372,R,False,Reject
+160,48,M,Dip,11,11,9267569,R,False,Reject
+161,64,F,Bach,7,7,2212744,R,False,Accept
+162,70,M,Bach,6,6,6028273,R,True,Accept
+163,75,M,Doct,3,3,4529098,R,False,Accept
+164,25,M,Bach,18,12,389805,R,False,Accept
+165,77,M,Dip,0,0,150879,N,True,Reject
+166,32,M,Mst,11,8,3508614,R,False,Accept
+167,70,M,Bach,18,10,7164498,R,False,Accept
+168,35,M,NaN,10,5,6640784,R,True,Accept
+169,63,M,Mst,13,11,9099898,R,True,Accept
+170,45,M,Doct,13,5,4807368,O,True,Accept
+171,39,M,Doct,6,6,5109740,R,False,Accept
+172,69,M,Dip,11,8,9656185,O,False,Reject
+173,26,M,Mst,16,9,2604480,R,False,Accept
+174,50,M,Bach,13,11,9543987,R,False,Accept
+175,72,M,Dip,8,8,1904060,R,False,Reject
+176,76,M,Bach,9,9,90178,R,False,Reject
+177,51,F,Mst,17,14,452661,R,False,Accept
+178,25,M,Ad. Dip,18,6,2503612,R,False,Reject
+179,48,M,Bach,4,3,4507766,R,False,Accept
+180,75,F,Bach,8,8,3125755,R,False,Accept
+181,29,M,Mst,4,4,143036,R,False,Accept
+182,73,M,Bach,8,3,8323448,R,True,Accept
+183,30,M,Dip,6,4,3909537,R,False,Accept
+184,43,M,Doct,16,4,2814087,R,True,Accept
+185,41,M,Bach,11,7,6305461,R,True,Reject
+186,28,M,Dip,5,5,681770,R,True,Reject
+187,26,M,Ad. Dip,12,4,5822214,R,False,Accept
+188,54,M,Dip,10,6,3574087,R,False,Accept
+189,44,F,Bach,7,7,2979441,R,True,Accept
+190,50,M,Mst,1,1,4209565,R,False,Accept
+191,48,M,Ad. Dip,12,4,6911597,R,False,Accept
+192,31,M,Doct,6,6,8757398,R,True,Accept
+193,62,M,Mst,19,13,1198501,R,False,Accept
+194,44,F,Bach,7,7,2979441,R,True,Reject
+195,65,M,Bach,9,9,3009196,R,False,Accept
+196,47,M,Ad. Dip,7,4,5110841,R,False,Accept
+197,27,M,Ad. Dip,3,3,2087733,O,False,Reject
+198,65,M,Mst,6,6,8030284,R,False,Reject
+199,57,M,Dip,16,3,7556052,O,True,Accept
+200,32,M,Dip,15,6,9677982,R,False,Accept
+201,23,M,Bach,0,0,7240511,R,True,Accept
+202,42,M,Bach,16,7,4590372,R,False,Accept
+203,78,M,Mst,13,11,3957826,R,False,Reject
+204,76,M,Bach,8,5,7332667,R,False,Accept
+205,40,M,Dip,18,5,2682048,R,False,Reject
+206,48,M,Bach,4,3,4507766,R,False,Accept
+207,40,F,Ad. Dip,10,9,7790773,R,True,Accept
+208,71,M,Mst,5,3,806853,N,False,Accept
+209,37,M,Bach,12,12,975686,R,False,Accept
+210,67,M,Mst,20,8,1960176,R,True,Accept
+211,63,M,Dip,9,5,8355348,R,True,Accept
+212,53,M,Doct,4,4,5911221,R,False,Accept
+213,69,M,Dip,8,6,8171432,O,True,Reject
+214,51,M,Bach,11,3,6340921,R,False,Accept
+215,30,F,Mst,9,5,8256310,R,False,Accept
+216,31,M,Bach,17,4,7549491,R,False,Accept
+217,54,M,Doct,13,3,6415225,R,False,Accept
+218,39,M,P. Doct,9,9,4072094,R,False,Accept
+219,48,F,Ad. Dip,2,2,6805823,R,True,Accept
+220,23,M,Ad. Dip,18,11,6881187,R,False,Accept
+221,74,M,Bach,17,5,4935105,R,False,Accept
+222,76,M,Dip,3,3,3412117,R,True,Reject
+223,28,F,P. Doct,7,7,6165156,O,False,Accept
+224,57,M,Ad. Dip,17,12,8331405,R,False,Reject
+225,72,M,Bach,14,6,8925422,R,True,Accept
+226,78,F,Mst,12,6,6487755,O,False,Accept
+227,23,M,Bach,6,6,5641705,R,False,Accept
+228,58,M,Dip,5,5,757960,R,True,Reject
+229,35,M,Ad. Dip,9,9,2742207,R,False,Reject
+230,21,F,Bach,15,3,6552503,R,True,Accept
+231,56,M,Doct,2,2,9627539,R,True,Accept
+232,34,M,Bach,2,2,7747297,R,False,Accept
+233,78,M,Bach,0,0,4660756,R,True,Accept
+234,69,M,Doct,2,2,6197216,R,False,Accept
+235,26,M,Mst,13,7,2504779,O,True,Reject
+236,56,M,Doct,2,2,9627539,R,True,Accept
+237,66,M,P. Doct,8,3,6152081,R,False,Accept
+238,50,M,P. Doct,3,3,1865410,R,True,Accept
+239,36,M,Dip,14,5,8275468,R,False,Accept
+240,61,F,Mst,19,9,8581174,R,False,Accept
+241,46,F,Bach,20,13,2248392,R,True,Accept
+242,27,M,Ad. Dip,16,14,1697857,R,False,Reject
+243,60,M,Bach,18,5,8049089,R,False,Accept
+244,60,M,Ad. Dip,9,9,7488205,R,False,Accept
+245,66,M,Bach,10,10,1728444,NaN,True,Accept
+246,61,M,Mst,11,6,3392005,R,False,Accept
+247,22,M,Ad. Dip,3,3,2974289,R,False,Reject
+248,67,M,Bach,4,4,749226,R,True,Accept
+249,52,M,Bach,11,10,8948812,R,True,Accept
+250,64,M,Bach,10,10,8753203,R,True,Accept
+251,21,M,Doct,5,5,4239717,R,False,Accept
+252,30,M,Bach,18,3,36639,R,False,Accept
+253,65,M,Mst,19,9,267701,R,True,Accept
+254,74,M,Ad. Dip,0,0,6809745,R,True,Accept
+255,70,M,Bach,1,1,4001896,R,False,Accept
+256,32,F,Doct,9,6,5898669,R,False,Reject
+257,57,M,Mst,4,4,7555360,R,False,Accept
+258,25,M,Mst,4,4,2278568,R,False,Reject
+259,60,M,Doct,16,3,5886958,R,False,Accept
+260,68,M,Dip,14,9,3840944,R,False,Accept
+261,67,M,Bach,19,11,446041,R,False,Accept
+262,68,M,Mst,9,9,651402,R,True,Accept
+263,32,M,Mst,9,9,754974,R,False,Accept
+264,60,M,Doct,5,5,7098940,R,True,Accept
+265,56,M,P. Doct,20,10,402869,R,False,Accept
+266,69,F,Doct,19,11,9224297,O,True,Accept
+267,31,M,Dip,20,4,3298331,R,False,Accept
+268,68,M,Bach,7,4,6381899,R,True,Reject
+269,26,M,Dip,10,10,3871972,R,False,Accept
+270,37,M,Mst,19,10,7245269,R,False,Accept
+271,30,M,Dip,2,2,5468664,R,False,Reject
+272,34,M,Doct,20,3,1303701,R,False,Accept
+273,75,M,Ad. Dip,7,7,7509022,R,False,Accept
+274,69,M,Dip,9,9,4516990,R,False,Reject
+275,39,M,Bach,15,3,2287116,R,True,Accept
+276,72,M,Bach,14,11,2175504,R,False,Accept
+277,41,M,Dip,16,7,5523182,R,True,Accept
+278,49,M,Bach,12,3,7677453,R,True,Accept
+279,34,M,Doct,20,3,1303701,R,False,Reject
+280,43,F,Bach,4,4,7059372,O,False,Reject
+281,55,M,Mst,8,8,8830734,R,True,Accept
+282,45,M,Bach,19,4,1882143,R,True,Reject
+283,50,M,Bach,13,3,9213176,R,False,Reject
+284,78,M,Bach,0,0,4660756,R,True,Accept
+285,48,F,Mst,15,14,9620139,N,True,Accept
+286,32,M,Bach,17,7,3642033,R,False,Accept
+287,34,M,Mst,2,2,1780115,R,False,Accept
+288,63,M,Ad. Dip,5,4,6345469,R,True,Accept
+289,42,M,Bach,16,7,4590372,R,False,Accept
+290,76,M,Mst,0,0,5394516,R,False,Accept
+291,40,F,Ad. Dip,10,9,7790773,R,True,Accept
+292,42,M,Mst,16,5,3979671,R,True,Accept
+293,41,M,Ad. Dip,1,1,3330034,R,True,Accept
+294,45,M,Bach,6,3,2537374,R,True,Accept
+295,62,M,Bach,12,7,912294,R,True,Accept
+296,77,M,Bach,20,9,3125803,R,False,Reject
+297,73,M,Doct,17,5,5725424,R,False,Accept
+298,71,M,Mst,14,4,5977613,R,True,Accept
+299,67,M,Bach,19,11,446041,R,False,Accept
+300,34,M,Bach,4,4,8698666,R,False,Accept
+301,21,M,Doct,12,12,3102332,R,False,Accept
+302,26,M,Mst,16,9,2604480,R,False,Accept
+303,70,M,Bach,18,10,7164498,R,False,Accept
+304,79,M,Bach,18,12,6535026,R,False,Accept
+305,36,F,Bach,17,13,630763,R,False,Accept
+306,76,M,Dip,2,2,5186187,R,False,Reject
+307,32,M,Bach,17,7,3642033,R,False,Accept
+308,76,M,Mst,0,0,5394516,R,False,Accept
+309,43,F,Bach,4,4,7059372,O,False,Accept
+310,38,M,Dip,13,9,7428357,R,True,Accept
+311,64,M,Ad. Dip,19,5,5004938,R,False,Accept
+312,52,M,Bach,7,7,2162328,R,False,Accept
+313,70,F,Dip,9,5,7363274,R,False,Accept
+314,51,M,Mst,19,8,3932375,R,True,Accept
+315,61,M,Mst,11,6,3392005,R,False,Accept
+316,58,M,Mst,5,5,9400836,R,True,Reject
+317,38,M,Doct,13,4,765211,R,True,Accept
+318,25,M,Doct,7,6,2260490,R,True,Accept
+319,22,M,Ad. Dip,3,3,2974289,R,False,Reject
+320,61,M,Mst,11,6,3392005,R,False,Accept
+321,59,M,Bach,3,3,9804751,R,False,Accept
+322,32,M,Dip,17,4,7412436,N,True,Accept
+323,39,M,Dip,3,3,8794262,R,False,Accept
+324,53,M,Doct,12,7,4022416,R,False,Accept
+325,57,M,Mst,4,4,7555360,R,False,Accept
+326,53,M,Mst,6,6,4264991,R,False,Accept
+327,57,M,Mst,4,4,7555360,R,False,Accept
+328,77,M,Dip,20,6,2608473,R,False,Reject
+329,78,M,Doct,17,8,3469743,R,False,Accept
+330,29,M,Dip,20,5,2310165,R,True,Reject
+331,27,M,Mst,0,0,7231280,R,True,Accept
+332,24,M,Doct,8,7,7853718,R,False,Accept
+333,79,M,Dip,19,13,4804358,R,False,Accept
+334,25,M,Bach,18,12,389805,R,False,Accept
+335,41,M,Bach,11,7,6305461,R,True,Reject
+336,66,M,Dip,6,6,5966818,R,True,Accept
+337,27,M,Ad. Dip,16,14,1697857,R,False,Reject
+338,38,M,Mst,5,5,5990216,R,False,Accept
+339,60,M,Doct,12,10,4828285,R,True,Accept
+340,45,M,Bach,11,8,4547051,R,False,Accept
+341,24,M,Bach,1,1,5656977,R,True,Accept
+342,54,M,Doct,15,5,3935358,N,True,Accept
+343,26,M,Bach,7,7,9339256,R,False,Accept
+344,21,M,Bach,11,6,7280359,R,False,Reject
+345,59,F,Mst,1,1,5712282,R,False,Accept
+346,76,M,Dip,2,2,5186187,R,False,Reject
+347,52,M,Mst,3,3,8296337,R,False,Accept
+348,46,M,Bach,17,11,4772948,R,False,Reject
+349,61,M,Ad. Dip,3,3,1669654,R,False,Reject
+350,62,M,Dip,8,8,9317664,R,True,Accept
+351,51,F,P. Doct,9,9,9825269,R,False,Reject
+352,33,F,Dip,13,11,6389669,R,False,Accept
+353,46,M,Bach,16,3,5160725,R,False,Accept
+354,56,M,Bach,16,6,6879691,R,False,Accept
+355,40,M,Dip,9,7,6877905,R,True,Reject
+356,46,M,Doct,6,4,4277195,R,False,Reject
+357,37,M,Bach,17,7,7257940,R,False,Accept
+358,62,M,Bach,12,7,912294,R,True,Accept
+359,34,M,Ad. Dip,6,6,2453112,R,False,Reject
+360,26,M,Mst,16,9,2604480,R,False,Accept
+361,31,M,Doct,15,6,3805380,R,False,Accept
+362,56,M,Dip,7,7,6289585,N,True,Accept
+363,51,M,Dip,3,3,9280298,R,False,Accept
+364,68,M,Doct,16,13,7648698,R,True,Accept
+365,67,M,Bach,19,6,5188656,R,False,Accept
+366,59,M,Ad. Dip,1,1,7561209,R,True,Reject
+367,68,M,P. Doct,2,2,8884015,R,False,Accept
+368,61,M,Doct,20,7,9744507,R,True,Accept
+369,60,M,Doct,19,14,6105914,R,False,Accept
+370,46,M,P. Doct,10,10,8097859,R,False,Accept
+371,69,M,Dip,9,9,4516990,R,False,Accept
+372,47,M,Dip,19,6,6174825,R,False,Accept
+373,75,M,Mst,6,6,4305317,R,False,Accept
+374,33,M,Bach,8,4,704775,R,False,Accept
+375,24,M,Bach,1,1,5656977,R,NaN,Accept
+376,48,M,Mst,9,9,6003357,R,False,Accept
+377,31,M,Bach,17,4,7549491,R,False,Accept
+378,51,M,Ad. Dip,18,14,6814983,R,False,Accept
+379,33,M,Doct,14,4,4581003,R,False,Accept
+380,74,M,Doct,16,11,2511105,R,True,Accept
+381,55,M,Bach,1,1,4258515,R,True,Accept
+382,48,M,Mst,6,6,3831317,R,False,Accept
+383,33,M,Bach,6,6,3169625,R,False,Accept
+384,61,M,Dip,13,10,5533812,O,True,Accept
+385,28,M,Doct,19,13,7282131,R,False,Accept
+386,32,M,Dip,15,6,9677982,R,False,Accept
+387,54,M,Bach,9,9,6260643,R,False,Accept
+388,56,F,Bach,20,7,16896,R,False,Accept
+389,37,M,Bach,12,12,975686,R,False,Accept
+390,59,M,Mst,10,6,4925213,N,True,Accept
+391,41,M,Bach,6,6,4531094,R,False,Accept
+392,28,M,Ad. Dip,7,6,1955424,R,False,Reject
+393,74,F,Doct,3,3,3905134,R,False,Accept
+394,74,M,Bach,2,2,5697624,R,True,Accept
+395,65,M,Dip,17,5,1586203,R,False,Reject
+396,63,M,Bach,13,10,9254833,R,True,Accept
+397,78,M,Bach,19,3,2926477,R,False,Reject
+398,41,M,Ad. Dip,6,6,1669231,R,False,Reject
+399,34,M,Bach,18,10,4739684,R,False,Accept
+400,32,M,Bach,12,3,3081814,O,False,Accept
+401,61,M,Mst,3,3,6359903,R,True,Accept
+402,74,M,Mst,20,14,7109627,N,True,Accept
+403,74,M,Ad. Dip,0,0,6809745,R,True,Accept
+404,69,M,Bach,12,12,8463555,R,False,Accept
+405,51,M,Ad. Dip,14,7,2504515,R,True,Reject
+406,24,M,Ad. Dip,19,13,1056300,R,True,Reject
+407,47,F,Dip,13,7,1454307,R,False,Reject
+408,55,M,Bach,18,10,3861206,R,False,Accept
+409,53,M,Ad. Dip,6,6,9352887,R,True,Reject
+410,76,M,Dip,3,3,3412117,R,True,Accept
+411,21,M,Doct,12,12,3102332,R,False,Accept
+412,31,M,Doct,8,8,7053325,R,False,Accept
+413,53,F,Ad. Dip,7,7,2915711,R,False,Reject
+414,43,M,Doct,0,0,4110066,R,False,Accept
+415,60,M,Doct,16,3,5886958,R,False,Accept
+416,71,M,Dip,5,5,5793046,R,False,Accept
+417,49,M,Doct,19,9,1625328,R,True,Accept
+418,42,M,Bach,18,3,8056757,R,False,Accept
+419,39,M,Dip,7,7,6979096,R,False,Accept
+420,21,M,Bach,18,11,3474234,R,False,Accept
+421,40,M,Dip,9,7,6877905,R,True,Reject
+422,56,M,Dip,13,8,6744134,R,True,Reject
+423,35,M,Mst,18,6,9370149,R,False,Accept
+424,51,M,Bach,6,4,7942966,R,True,Accept
+425,58,M,Doct,10,4,6244382,R,False,Accept
+426,72,M,Dip,4,4,9768431,O,True,Accept
+427,43,M,P. Doct,13,8,6674100,R,False,Accept
+428,68,M,Dip,1,1,1810800,R,False,Reject
+429,37,M,Mst,5,5,6357644,R,False,Accept
+430,24,M,Bach,15,14,271925,R,False,Accept
+431,68,M,Bach,18,14,1808178,R,True,Accept
+432,50,M,Dip,19,4,4403214,R,False,Accept
+433,50,M,Mst,6,6,4032380,R,False,Accept
+434,73,M,Doct,4,4,5544342,O,False,Accept
+435,57,M,Dip,1,1,2359192,R,False,Reject
+436,44,M,P. Doct,18,14,8087598,R,False,Accept
+437,71,M,Bach,1,1,1861491,R,True,Accept
+438,55,M,Ad. Dip,2,2,2139874,R,True,Reject
+439,50,M,Dip,2,2,8516122,R,False,Accept
+440,34,M,Bach,1,1,67177,R,False,Accept
+441,21,M,Dip,7,7,3873393,R,True,Reject
+442,23,M,Doct,2,2,7541730,R,False,Accept
+443,21,M,Doct,5,5,4239717,R,False,Accept
+444,23,M,Mst,17,11,2860021,N,False,Accept
+445,79,M,Mst,18,5,8440210,R,False,Accept
+446,74,M,Doct,6,3,74114,R,True,Accept
+447,64,F,Bach,7,7,2212744,R,False,Accept
+448,68,M,Ad. Dip,17,12,9905552,R,False,Accept
+449,27,M,Ad. Dip,16,14,1697857,R,False,Reject
+450,78,M,Mst,13,11,3957826,R,False,Reject
+451,24,M,Dip,20,8,4536029,R,False,Reject
+452,50,M,Doct,9,4,5301870,R,False,Accept
+453,43,F,Bach,4,4,7059372,O,False,Accept
+454,56,M,Bach,12,12,848202,R,True,Accept
+455,44,M,Bach,18,9,353654,O,False,Accept
+456,70,F,Dip,9,5,7363274,R,False,Accept
+457,65,M,Bach,4,3,8720580,R,True,Accept
+458,21,F,Mst,8,7,16890,R,False,Accept
+459,56,M,P. Doct,1,1,1999332,R,False,Accept
+460,67,F,Doct,9,5,2687305,R,False,Accept
+461,44,M,Bach,10,8,3267028,R,False,Accept
+462,48,F,Dip,6,6,5675460,R,False,Accept
+463,77,M,Mst,10,9,702863,R,False,Accept
+464,31,M,Doct,6,6,8757398,R,True,Accept
+465,47,M,Bach,3,3,6646287,R,False,Accept
+466,41,M,Bach,6,6,4531094,R,False,Accept
+467,54,M,Ad. Dip,8,8,2562525,R,True,Reject
+468,59,M,Mst,10,6,4925213,N,True,Accept
+469,24,M,Ad. Dip,18,4,6258651,R,False,Accept
+470,63,M,Ad. Dip,0,0,8331889,R,False,Accept
+471,23,M,Bach,0,0,383282,R,True,Accept
+472,24,F,Mst,10,10,2431771,R,False,Accept
+473,48,M,Mst,6,6,3831317,R,False,Accept
+474,39,M,Bach,11,11,4991059,R,False,Accept
+475,28,M,Bach,9,9,5178562,R,False,Accept
+476,72,F,Ad. Dip,16,9,1636777,R,True,Reject
+477,57,M,Ad. Dip,6,6,5775285,R,False,Accept
+478,72,M,Bach,9,5,9402303,R,False,Accept
+479,66,M,Ad. Dip,19,8,1336270,R,NaN,Reject
+480,70,M,Bach,8,8,4269729,R,True,Accept
+481,76,M,Mst,0,0,5394516,R,False,Accept
+482,75,M,Ad. Dip,7,7,7509022,R,False,Accept
+483,58,M,Ad. Dip,17,4,7885044,R,True,Accept
+484,23,M,Dip,17,9,5305177,R,False,Reject
+485,24,M,Bach,1,1,5656977,R,True,Accept
+486,62,M,Mst,2,2,4218141,R,False,Reject
+487,43,M,Bach,12,12,9674102,R,False,Accept
+488,57,M,Mst,17,5,4503934,R,False,Accept
+489,37,M,Bach,12,12,975686,R,False,Accept
+490,45,M,Bach,19,4,1882143,R,True,Reject
+491,27,M,Bach,6,6,924892,R,False,Accept
+492,24,M,Mst,6,6,3376799,R,False,Accept
+493,60,M,Doct,6,6,2296989,R,False,Reject
+494,53,F,Ad. Dip,7,7,2915711,R,False,Reject
+495,66,M,Bach,3,3,5616939,R,True,Accept
+496,67,M,Bach,19,6,5188656,R,False,Accept
+497,68,M,Bach,5,5,6164905,R,True,Accept
+498,68,M,Mst,9,8,9287205,N,False,Accept
+499,46,M,P. Doct,10,10,8097859,R,False,Accept
+500,78,M,Mst,0,0,354766,R,False,Accept
+501,68,M,Dip,1,1,1810800,R,False,Reject
+502,30,M,Dip,6,4,3909537,R,False,Accept
+503,54,F,Doct,20,11,1375658,R,True,Accept
+504,39,M,Dip,14,8,9574183,R,True,Accept
+505,76,F,Mst,6,6,5136629,R,False,Accept
+506,27,M,Bach,6,6,924892,R,False,Accept
+507,27,M,Mst,9,4,6889369,R,False,Accept
+508,51,M,Bach,6,4,7942966,R,True,Accept
+509,64,M,Bach,10,10,8753203,R,True,Accept
+510,79,M,P. Doct,1,1,8459716,R,False,Accept
+511,63,F,Bach,3,3,7363011,O,False,Accept
+512,45,M,Mst,3,3,462027,R,False,Accept
+513,69,M,Bach,12,12,8463555,R,False,Accept
+514,50,F,Ad. Dip,17,7,288761,R,False,Reject
+515,65,M,Bach,4,3,8720580,R,True,Accept
+516,29,M,Doct,11,5,1392884,R,True,Accept
+517,68,M,Dip,1,1,1810800,R,False,Reject
+518,61,M,Mst,11,6,3392005,R,False,Accept
+519,50,M,Bach,13,11,9543987,R,False,Accept
+520,60,M,Mst,4,4,5021477,R,False,Accept
+521,33,M,Bach,6,6,3169625,R,False,Accept
+522,50,M,Bach,11,4,2942291,O,False,Accept
+523,37,M,Mst,5,5,6357644,R,False,Accept
+524,65,M,Mst,18,8,9572208,R,False,Accept
+525,42,M,Dip,17,14,5117590,R,False,Accept
+526,26,M,Mst,2,2,5131419,NaN,False,Reject
+527,40,M,Dip,17,5,713017,R,True,Reject
+528,48,M,Mst,13,13,3479914,R,False,Accept
+529,72,M,Bach,14,11,2175504,R,False,Accept
+530,29,M,Mst,2,2,5557295,R,False,Accept
+531,49,M,Bach,12,3,7677453,R,True,Accept
+532,77,M,Dip,18,13,4167093,O,False,Accept
+533,42,M,Dip,10,4,523864900,O,True,Accept
+534,52,M,Bach,11,3,3789446,R,False,Accept
+535,46,M,Doct,19,5,4954873,R,False,Accept
+536,68,M,Doct,3,3,3055894,R,False,Accept
+537,79,M,Bach,18,12,6535026,R,False,Accept
+538,59,F,P. Doct,18,3,4638141,R,False,Accept
+539,70,M,Bach,18,13,1551042,R,False,Reject
+540,57,M,Ad. Dip,6,6,5775285,R,False,Accept
+541,68,M,Mst,17,14,8456007,R,False,Accept
+542,40,F,Ad. Dip,10,9,7790773,R,True,Reject
+543,71,M,P. Doct,16,7,1453061,R,False,Accept
+544,26,M,Ad. Dip,12,4,5822214,R,False,Reject
+545,36,M,Doct,12,7,8845971,R,True,Accept
+546,77,M,Ad. Dip,11,11,3189526,N,False,Accept
+547,39,M,Ad. Dip,1,1,3255445,R,True,Accept
+548,33,M,Ad. Dip,7,7,4868676,R,True,Accept
+549,44,M,Bach,18,9,353654,O,False,Accept
+550,71,M,P. Doct,16,7,1453061,R,False,Accept
+551,34,M,Bach,2,2,7747297,R,False,Accept
+552,23,M,Bach,3,3,7217848,R,False,Accept
+553,43,F,Bach,4,4,7059372,O,False,Accept
+554,66,M,Ad. Dip,19,8,1336270,R,False,Reject
+555,78,M,Bach,0,0,4660756,R,True,Accept
+556,43,M,Bach,14,12,1242747,R,True,Accept
+557,23,M,Mst,17,8,4137042,R,True,Accept
+558,39,M,Doct,6,6,5109740,R,False,Reject
+559,74,M,Bach,2,2,5697624,R,True,Accept
+560,47,M,Dip,19,6,6174825,R,False,Accept
+561,27,M,Mst,10,4,4707147,R,False,Accept
+562,70,M,Mst,16,11,7667833,R,False,Accept
+563,31,M,Doct,6,6,8757398,R,True,Accept
+564,75,M,Doct,2,2,4846957,R,True,Accept
+565,71,F,Ad. Dip,7,3,2090531,R,False,Reject
+566,26,M,P. Doct,6,6,2244337,R,True,Accept
+567,72,M,Doct,14,4,4066708,R,False,Accept
+568,62,M,Doct,2,2,4356905,N,True,Accept
+569,61,M,Ad. Dip,3,3,1669654,R,False,Reject
+570,67,M,Bach,4,4,749226,R,True,Accept
+571,58,M,Doct,16,14,2561078,R,False,Accept
+572,42,M,Mst,16,5,3979671,R,True,Accept
+573,48,F,Mst,15,14,9620139,N,True,Accept
+574,77,M,Mst,18,14,8830162,R,False,Accept
+575,28,M,Mst,7,7,3557737,R,False,Reject
+576,25,F,P. Doct,17,9,499939,R,True,Accept
+577,70,M,Mst,6,4,6706117,R,False,Accept
+578,68,M,Bach,18,14,1808178,R,True,Accept
+579,55,M,Mst,10,8,2542814,R,False,Accept
+580,34,M,Ad. Dip,6,6,2453112,R,False,Reject
+581,60,M,Bach,5,3,3679043,R,False,Accept
+582,22,M,Doct,13,13,8296594,R,False,Accept
+583,26,M,Ad. Dip,18,10,759604,R,False,Reject
+584,77,M,Mst,18,6,5093372,R,False,Accept
+585,71,F,Bach,14,12,3941355,R,False,Accept
+586,31,M,Bach,3,3,9750930,R,True,Reject
+587,27,M,Doct,10,8,6987406,R,False,Reject
+588,64,M,Dip,3,3,5099623,R,False,Accept
+589,34,M,Bach,18,10,4739684,R,False,Accept
+590,76,F,Mst,6,6,5136629,R,False,Accept
+591,78,M,Bach,2,2,2451695,R,True,Accept
+592,54,M,Bach,9,9,6260643,R,False,Accept
+593,45,M,Bach,5,3,1929764,R,False,Accept
+594,72,M,Mst,19,4,7084312,R,False,Accept
+595,46,M,Bach,17,11,4772948,R,False,Accept
+596,62,M,Mst,19,12,6006615,R,False,Accept
+597,58,M,Dip,5,5,757960,R,True,Reject
+598,67,M,Bach,6,5,4069436,R,True,Reject
+599,23,M,Bach,6,6,5641705,R,False,Accept
+600,67,M,Doct,7,7,7273711,R,False,Accept
+601,65,M,Ad. Dip,12,10,7530512,R,False,Reject
+602,40,M,Mst,8,5,8939837,R,False,Accept
+603,46,M,P. Doct,10,10,8097859,R,False,Accept
+604,53,M,Bach,2,2,8433991,O,True,Accept
+605,41,M,Dip,3,3,3043623,R,False,Accept
+606,77,M,Dip,18,11,3460313,R,True,Accept
+607,48,M,Ad. Dip,12,4,6911597,R,False,Accept
+608,61,M,Mst,19,3,9685181,R,True,Accept
+609,77,M,Mst,12,12,2727257,R,False,Accept
+610,64,F,Bach,11,4,9211303,R,True,Accept
+611,77,M,Dip,0,0,150879,N,True,Reject
+612,47,M,Bach,3,3,6646287,R,False,Accept
+613,71,M,Doct,0,0,8397564,R,False,Accept
+614,74,M,Doct,17,7,456398,R,True,Accept
+615,75,M,Bach,2,2,3603703,O,False,Accept
+616,66,M,P. Doct,15,14,612912,R,False,Accept
+617,68,M,Mst,5,5,3022992,R,False,Accept
+618,57,M,Bach,3,3,2854227,R,False,Accept
+619,75,M,Ad. Dip,20,12,1925567,O,True,Reject
+620,79,M,P. Doct,2,2,1532701,R,False,Accept
+621,59,M,Mst,10,6,4925213,N,True,Accept
+622,58,M,Doct,10,4,6244382,R,False,Accept
+623,26,M,Dip,10,10,3871972,R,False,Accept
+624,68,M,Mst,9,8,9287205,N,False,Accept
+625,78,M,Bach,0,0,4660756,R,True,Accept
+626,74,M,Bach,13,9,7583437,O,True,Accept
+627,39,M,Bach,1,1,5448587,R,False,Accept
+628,25,M,Ad. Dip,18,6,2503612,R,False,Reject
+629,54,M,Mst,6,6,3057698,R,False,Accept
+630,44,M,Ad. Dip,16,5,998868,R,False,Reject
+631,46,M,Bach,15,5,5287693,R,False,Accept
+632,48,M,Dip,11,11,9267569,R,False,Reject
+633,69,F,Mst,9,5,8360356,R,False,Accept
+634,46,M,Ad. Dip,15,14,5365427,R,False,Accept
+635,77,M,Mst,18,14,8830162,R,False,Accept
+636,61,M,Doct,9,3,8190070,R,True,Accept
+637,31,M,Bach,9,9,9723891,R,True,Accept
+638,32,M,Mst,11,8,3508614,R,False,Accept
+639,70,M,Bach,12,8,3983449,R,False,Accept
+640,72,M,Dip,12,12,2307642,NaN,False,Reject
+641,24,M,Bach,1,1,5656977,R,True,Accept
+642,78,M,Doct,6,6,4957836,R,False,Accept
+643,21,M,Bach,11,6,7280359,R,False,Reject
+644,48,M,Dip,11,11,9267569,R,False,Reject
+645,68,M,P. Doct,19,14,243245,R,False,Accept
+646,57,M,Dip,19,9,6420146,R,True,Accept
+647,22,M,Doct,13,13,8296594,R,False,Accept
+648,73,M,Bach,16,10,4171960,R,False,Accept
+649,64,M,Bach,10,10,8753203,R,True,Accept
+650,56,M,Dip,4,4,7756519,R,False,Reject
+651,38,M,Mst,5,5,5990216,R,False,Accept
+652,39,M,P. Doct,10,3,6372556,R,True,Accept
+653,75,M,Ad. Dip,7,7,7509022,R,False,Accept
+654,39,M,Bach,7,7,7861257,R,True,Accept
+655,51,M,Mst,9,8,224204,N,False,Accept
+656,77,M,Mst,15,8,3685843,N,False,Accept
+657,62,M,Dip,8,8,9317664,R,True,Accept
+658,51,M,Bach,16,12,4796189,R,False,Accept
+659,60,M,Bach,17,6,6614337,R,True,Accept
+660,60,M,Doct,17,4,1033781,R,True,Accept
+661,60,M,Ad. Dip,7,7,9390552,R,True,Accept
+662,50,M,Doct,2,2,9055305,R,False,Reject
+663,46,M,Dip,12,8,1655968,R,False,Reject
+664,76,M,Bach,19,5,7524377,R,False,Accept
+665,54,M,Doct,15,5,3935358,N,True,Accept
+666,69,M,Ad. Dip,8,8,1818927,R,False,Reject
+667,68,M,Dip,1,1,1810800,R,False,Reject
+668,45,M,Ad. Dip,0,0,340075,R,False,Reject
+669,72,M,P. Doct,17,13,6975315,R,False,Accept
+670,25,F,P. Doct,17,9,499939,R,True,Accept
+671,77,M,Mst,18,14,8830162,R,False,Accept
+672,32,M,Mst,11,8,3508614,R,False,Accept
+673,61,M,Dip,13,10,5533812,O,True,Accept
+674,72,M,Dip,8,8,1904060,R,False,Reject
+675,47,M,Ad. Dip,12,5,2572494,R,False,Reject
+676,70,M,NaN,6,6,6028273,R,True,Accept
+677,40,M,Doct,9,9,5646079,R,False,Accept
+678,32,M,Mst,9,9,754974,R,False,Accept
+679,28,M,Dip,5,5,681770,R,True,Reject
+680,77,M,Mst,10,9,702863,R,False,Accept
+681,59,M,Bach,15,8,7977107,R,False,Accept
+682,69,M,Bach,0,0,4545563,R,True,Accept
+683,33,M,Bach,6,6,3169625,R,False,Accept
+684,41,M,Doct,15,14,5866909,R,False,Accept
+685,79,M,NaN,18,12,6535026,R,False,Accept
+686,68,M,Bach,18,14,1808178,R,True,Accept
+687,35,M,Ad. Dip,8,8,3734131,R,False,Reject
+688,55,M,Bach,18,10,3861206,R,False,Accept
+689,77,M,Mst,18,14,88301,R,False,Accept
+690,22,M,Doct,14,5,4931330,R,True,Accept
+691,60,M,Ad. Dip,14,12,2327580,R,False,Reject
+692,22,M,Bach,3,3,450549,R,True,Accept
+693,66,M,P. Doct,15,14,612912,R,False,Accept
+694,77,M,Dip,20,6,2608473,R,False,Reject
+695,45,M,Doct,15,6,4468065,R,False,Accept
+696,24,F,Mst,10,10,2431771,R,False,Accept
+697,38,M,Mst,4,4,5375354,R,False,Accept
+698,54,M,P. Doct,5,5,7686220,N,True,Accept
+699,60,M,Bach,10,4,8135531,O,False,Accept
+700,760,F,Mst,6,6,5136629,R,False,Accept
+701,79,M,P. Doct,20,6,2415720,R,False,Accept
+702,70,M,Bach,18,13,1551042,R,False,Reject
+703,60,M,Doct,16,3,5886958,R,False,Accept
+704,37,M,Bach,12,12,975686,R,False,Accept
+705,27,M,Ad. Dip,12,4,182326,R,True,Reject
+706,71,F,Ad. Dip,7,3,2090531,R,False,Reject
+707,79,M,Dip,11,4,1759952,R,True,Reject
+708,41,M,Ad. Dip,2,2,4392927,R,False,Reject
+709,70,M,Mst,6,4,6706117,R,False,Accept
+710,34,M,Doct,20,3,1303701,R,False,Reject
+711,40,M,Mst,7,7,22921,R,False,Accept
+712,42,M,Ad. Dip,18,13,3589662,R,True,Accept
+713,39,M,Dip,14,8,9574183,R,True,Accept
+714,37,M,Bach,17,7,7257940,R,False,Accept
+715,76,F,Mst,6,6,5136629,R,False,Accept
+716,72,M,Dip,8,8,1904060,R,False,Reject
+717,27,M,Ad. Dip,7,7,4062276,R,False,Accept
+718,78,M,Dip,12,10,2304265,R,False,Reject
+719,40,M,Bach,0,0,4940597,O,False,Accept
+720,50,M,Bach,11,4,2942291,O,False,Accept
+721,60,M,Mst,3,3,6468679,R,True,Accept
+722,26,M,P. Doct,6,6,2244337,R,True,Reject
+723,25,F,P. Doct,17,9,499939,R,True,Accept
+724,60,F,Bach,4,4,4759451,R,False,Accept
+725,24,M,Bach,11,11,3006454,N,False,Accept
+726,63,M,Bach,19,14,3304937,R,True,Accept
+727,26,M,Dip,10,10,3871972,R,False,Accept
+728,79,M,Mst,5,4,651925,R,False,Accept
+729,41,M,Mst,6,3,7591621,O,False,Reject
+730,26,M,P. Doct,0,0,8801121,R,True,Accept
+731,56,M,P. Doct,18,9,6171221,R,False,Accept
+732,42,M,Ad. Dip,18,13,3589662,R,True,Accept
+733,75,M,Ad. Dip,6,6,5904431,R,True,Accept
+734,32,M,Mst,11,8,3508614,R,False,Accept
+735,57,M,Doct,12,6,733884,R,False,Accept
+736,29,M,Bach,16,11,6138360,R,True,Accept
+737,30,M,Doct,14,6,6374359,R,True,Accept
+738,63,M,Doct,6,6,8036522,R,False,Accept
+739,75,M,Mst,5,5,7662119,R,True,Accept
+740,27,M,Ad. Dip,16,14,1697857,R,False,Reject
+741,28,M,Ad. Dip,18,14,7054211,R,False,Accept
+742,73,M,Doct,4,4,3426695,R,False,Accept
+743,61,M,Dip,9,4,5316246,R,True,Accept
+744,29,M,Bach,0,0,785874,R,False,Accept
+745,70,F,Dip,9,5,7363274,R,False,Accept
+746,78,M,Bach,13,3,6561990,R,False,Accept
+747,47,M,Mst,3,3,9173731,R,False,Accept
+748,79,M,P. Doct,1,1,8459716,R,False,Accept
+749,32,M,P. Doct,5,4,3167295,R,True,Accept
+750,28,M,Mst,10,7,1232057,O,False,Accept
+751,48,M,Dip,18,10,5356329,N,False,Accept
+752,72,M,Bach,12,12,53886,R,True,Accept
+753,42,M,Bach,18,14,4792051,O,False,Accept
+754,79,M,P. Doct,2,2,1532701,R,False,Accept
+755,74,M,Ad. Dip,0,0,6809745,R,True,Accept
+756,53,M,Bach,1,1,8512871,R,False,Accept
+757,60,M,Ad. Dip,9,9,7488205,R,False,Reject
+758,61,M,Mst,11,11,2615443,R,True,Accept
+759,31,M,Mst,0,0,3003215,R,False,Accept
+760,74,M,Doct,17,7,456398,R,True,Accept
+761,50,M,P. Doct,9,9,5094060,R,True,Accept
+762,77,M,Dip,7,5,9776427,R,True,Accept
+763,40,M,Ad. Dip,13,7,9672890,R,True,Accept
+764,59,M,Bach,15,8,7977107,R,False,Accept
+765,27,M,Mst,3,3,2572958,R,False,Accept
+766,79,M,Mst,12,5,3105209,R,False,Accept
+767,56,M,Dip,13,8,674413400,R,True,Accept
+768,78,M,Mst,8,8,3422262,R,True,Accept
+769,73,M,Doct,17,5,5725424,R,False,Accept
+770,51,M,Bach,15,6,2307924,R,True,Accept
+771,42,M,Ad. Dip,4,4,8092590,R,False,Accept
+772,62,M,Mst,0,0,7990740,R,False,Accept
+773,24,M,Doct,8,7,7853718,R,False,Accept
+774,57,M,Mst,17,5,4503934,R,False,Accept
+775,49,M,Doct,19,9,1625328,R,True,Accept
+776,24,M,Bach,1,1,5656977,R,True,Accept
+777,58,M,Dip,5,5,757960,R,True,Reject
+778,50,M,P. Doct,3,3,1865410,R,True,Accept
+779,70,M,Bach,16,8,655331,R,False,Accept
+780,25,M,Bach,13,11,9294943,R,False,Accept
+781,37,M,Mst,7,6,2493344,R,True,Accept
+782,41,M,Dip,16,7,5523182,R,True,Accept
+783,40,M,Dip,9,7,6877905,R,True,Accept
+784,46,M,Bach,16,3,5160725,R,False,Accept
+785,63,M,Doct,15,7,2477727,R,False,Reject
+786,22,M,Ad. Dip,2,2,8437491,R,False,Reject
+787,48,M,Doct,9,3,9993798,R,False,Accept
+788,63,M,Doct,6,6,8036522,R,False,Accept
+789,43,M,Doct,0,0,4110066,R,False,Accept
+790,21,M,Bach,18,11,3474234,R,False,Accept
+791,66,M,Bach,8,8,1325345,R,False,Accept
+792,22,M,Bach,3,3,450549,R,True,Accept
+793,35,M,Ad. Dip,9,9,2742207,R,False,Reject
+794,30,M,Dip,10,10,5250888,R,False,Accept
+795,65,M,Bach,4,3,8720580,R,True,Accept
+796,63,M,Bach,13,10,9254833,R,True,Accept
+797,37,F,Mst,6,6,1392082,R,False,Accept
+798,28,M,Dip,5,5,681770,R,True,Reject
+799,51,M,P. Doct,3,3,5106544,R,False,Accept
+800,37,M,Ad. Dip,19,14,9612466,R,True,Reject
+801,48,M,Dip,20,6,7358204,R,True,Reject
+802,60,M,Doct,20,7,6775535,R,False,Accept
+803,23,F,Ad. Dip,18,8,3147606,O,False,Accept
+804,62,M,Doct,10,8,4834057,R,False,Accept
+805,23,M,Mst,6,6,4070923,R,True,Accept
+806,48,F,Dip,6,6,5675460,R,False,Accept
+807,24,F,Mst,10,10,2431771,R,False,Accept
+808,76,M,Mst,0,0,5394516,R,False,Accept
+809,77,M,Bach,7,7,5914736,R,False,Accept
+810,51,M,Bach,2,2,7794515,R,False,Reject
+811,60,M,Mst,4,4,7651261,R,False,Accept
+812,58,F,Doct,3,3,9397962,R,False,Accept
+813,22,M,Bach,11,3,9127290,R,False,Reject
+814,32,M,Bach,12,3,3081814,O,False,Accept
+815,65,M,Mst,19,9,267701,R,True,Accept
+816,73,M,Doct,4,4,5544342,O,False,Accept
+817,47,M,Bach,3,3,8100737,R,False,Accept
+818,32,M,Mst,9,9,754974,R,False,Accept
+819,71,M,Dip,4,4,7436685,R,False,Accept
+820,34,M,Bach,12,9,6634248,R,False,Accept
+821,71,M,Mst,0,0,921444,R,False,Accept
+822,54,M,Dip,13,3,4323553,R,False,Accept
+823,77,M,Mst,15,8,3685843,N,False,Accept
+824,22,M,Ad. Dip,2,2,8437491,R,False,Reject
+825,32,M,Bach,15,3,2541624,R,False,Accept
+826,64,F,Mst,20,5,7582947,R,True,Accept
+827,77,F,P. Doct,10,7,1297490,R,False,Accept
+828,78,M,Ad. Dip,18,5,3654298,R,True,Accept
+829,24,M,Dip,11,7,4786725,R,False,Accept
+830,57,M,Dip,1,1,2359192,R,False,Reject
+831,46,M,Bach,19,11,6178223,O,True,Accept
+832,24,M,Ad. Dip,0,0,6498881,R,True,Accept
+833,58,M,Mst,16,14,6187568,R,False,Accept
+834,35,M,Ad. Dip,9,9,2742207,R,False,Reject
+835,48,M,Bach,12,12,9348360,R,True,Accept
+836,79,M,Mst,12,5,3105209,R,False,Accept
+837,51,M,Mst,9,8,224204,N,False,Accept
+838,45,M,Doct,15,6,4468065,R,False,Accept
+839,23,M,Mst,17,11,2860021,N,False,Accept
+840,22,M,Bach,3,3,450549,R,True,Accept
+841,70,M,Doct,18,4,6905633,R,True,Reject
+842,39,M,Dip,12,11,940069,R,False,Reject
+843,34,F,Ad. Dip,0,0,2882498,R,False,Reject
+844,43,M,Mst,13,8,3482496,R,False,Accept
+845,22,M,Bach,15,7,7655074,R,False,Accept
+846,56,M,Bach,16,3,8808852,R,False,Accept
+847,74,F,Doct,3,3,3905134,R,False,Accept
+848,60,M,Doct,20,7,6775535,R,False,Accept
+849,31,M,Dip,8,8,3725530,R,False,Accept
+850,48,M,Mst,9,9,6003357,R,False,Accept
+851,78,M,Dip,10,5,8776828,R,False,Accept
+852,75,M,Doct,2,2,4846957,R,True,Accept
+853,23,M,Dip,9,7,620940,R,False,Reject
+854,73,M,Bach,16,10,4171960,R,False,Accept
+855,55,M,Bach,1,1,4258515,R,True,Accept
+856,40,M,Doct,2,2,6660597,R,True,Accept
+857,29,M,Mst,18,12,3057782,R,False,Accept
+858,44,M,Bach,18,9,353654,O,False,Accept
+859,78,F,Mst,12,6,6487755,O,False,Accept
+860,25,M,Ad. Dip,15,14,1771499,N,False,Reject
+861,27,M,Doct,9,3,9025787,R,False,Accept
+862,30,M,Doct,19,12,8760061,R,False,Accept
+863,37,F,Ad. Dip,12,12,1659351,R,True,Reject
+864,50,M,Bach,12,10,9532596,R,False,Accept
+865,44,M,Bach,16,13,4320477,R,False,Accept
+866,69,M,Bach,16,12,1066119,R,True,Reject
+867,51,M,Ad. Dip,18,14,6814983,R,False,Accept
+868,53,M,Bach,12,11,6565653,O,False,Reject
+869,59,M,P. Doct,20,6,4052052,R,False,Accept
+870,62,M,Mst,19,6,4347061,R,True,Accept
+871,71,M,P. Doct,16,7,1453061,R,False,Accept
+872,68,M,Mst,17,14,8456007,R,False,Accept
+873,45,M,Bach,5,3,1929764,R,False,Accept
+874,49,M,Bach,0,0,4387681,R,False,Accept
+875,53,M,Doct,18,12,9757979,R,False,Accept
+876,27,M,Mst,9,4,6889369,R,False,Accept
+877,78,F,Mst,12,6,6487755,O,False,Accept
+878,76,M,Bach,9,9,90178,R,False,Accept
+879,74,F,Doct,3,3,3905134,R,False,Accept
+880,77,M,Mst,10,9,702863,R,False,Accept
+881,30,M,Doct,19,13,4637211,R,False,Accept
+882,21,M,Dip,7,7,3873393,R,True,Accept
+883,50,M,Bach,12,10,9532596,R,False,Accept
+884,28,M,Doct,12,12,9846056,R,False,Accept
+885,50,M,Ad. Dip,3,3,2062048,R,True,Reject
+886,42,M,Dip,18,9,7413926,R,False,Reject
+887,37,M,Doct,7,7,2344126,R,True,Accept
+888,21,F,Dip,0,0,8683216,R,False,Accept
+889,56,M,Dip,4,4,7756519,R,False,Reject
+890,54,M,Doct,15,5,3935358,N,True,Accept
+891,60,M,Bach,5,3,3679043,R,False,Accept
+892,77,M,Dip,18,11,3460313,R,True,Accept
+893,33,M,Doct,14,4,4581003,R,False,Accept
+894,65,M,Mst,19,9,267701,R,True,Accept
+895,54,M,Ad. Dip,8,8,2562525,R,True,Reject
+896,60,M,Bach,5,3,3679043,R,False,Accept
+897,78,M,Bach,0,0,4660756,R,True,Accept
+898,74,M,Bach,2,2,5697624,R,True,Accept
+899,75,M,Ad. Dip,19,5,5155377,R,True,Reject
+900,68,M,Mst,17,14,8456007,R,False,Accept
+901,63,M,Doct,15,7,2477727,R,False,Reject
+902,48,M,Ad. Dip,20,9,8605713,R,True,Accept
+903,75,F,Doct,9,9,9514006,R,False,Accept
+904,39,M,Doct,2,2,2458400,R,False,Accept
+905,76,M,Bach,19,5,7524377,R,False,Accept
+906,22,M,Bach,19,6,2398109,R,False,Accept
+907,30,F,Dip,10,4,1341706,N,False,Reject
+908,66,M,P. Doct,8,3,6152081,R,False,Accept
+909,27,M,Mst,9,4,6889369,R,False,Accept
+910,75,M,Ad. Dip,20,12,1925567,O,True,Reject
+911,29,M,Doct,11,5,1392884,NaN,True,Accept
+912,48,F,Dip,6,6,5675460,R,False,Accept
+913,27,M,Mst,2,2,8738958,R,False,Accept
+914,41,M,Ad. Dip,8,4,3679954,R,True,Accept
+915,68,M,Mst,9,8,9287205,N,False,Accept
+916,34,M,Dip,17,5,7895335,R,False,Accept
+917,72,F,P. Doct,18,4,220528,R,False,Accept
+918,64,F,Bach,7,7,2212744,R,False,Accept
+919,33,M,Doct,1,1,1500230,R,True,Accept
+920,53,M,Mst,6,6,4264991,R,False,Accept
+921,65,M,Doct,5,5,568591,R,False,Accept
+922,28,M,Dip,5,5,681770,R,True,Reject
+923,610,M,Mst,9,9,527900,R,True,Accept
+924,42,M,Bach,18,3,8056757,R,NaN,Accept
+925,39,M,Bach,14,11,543441,R,True,Accept
+926,63,M,Dip,9,5,8355348,R,True,Accept
+927,69,M,Mst,8,4,4536797,R,False,Accept
+928,26,M,Dip,10,10,3871972,R,False,Accept
+929,55,M,Bach,7,7,9086933,R,NaN,Accept
+930,68,M,Mst,9,8,9287205,N,False,Accept
+931,74,M,Doct,16,11,2511105,R,True,Accept
+932,68,M,Doct,16,13,7648698,R,True,Accept
+933,29,M,Mst,4,4,143036,R,False,Accept
+934,41,M,Bach,8,8,9961539,O,True,Reject
+935,61,M,Mst,6,6,2784842,R,False,Accept
+936,24,M,Doct,8,7,7853718,R,False,Accept
+937,50,M,Bach,12,10,9532596,R,False,Accept
+938,47,M,Mst,0,0,9292764,O,False,Accept
+939,79,M,P. Doct,1,1,8459716,R,False,Accept
+940,45,M,Mst,6,5,5225913,R,False,Accept
+941,57,M,Ad. Dip,14,5,9912721,R,False,Reject
+942,33,M,Dip,20,13,2050456,R,False,Reject
+943,70,F,Dip,9,5,7363274,R,False,Accept
+944,30,M,P. Doct,16,5,4899333,R,True,Accept
+945,43,M,Bach,14,12,1242747,R,True,Accept
+946,48,F,Dip,6,6,5675460,R,False,Accept
+947,54,M,NaN,16,12,5502824,R,True,Accept
+948,41,F,Mst,16,10,103611,R,False,Accept
+949,74,M,Mst,20,14,7109627,N,True,Accept
+950,38,M,Mst,5,5,5990216,R,False,Accept
+951,74,M,Bach,13,9,7583437,O,True,Accept
+952,64,F,Dip,9,7,9099029,R,True,Accept
+953,59,M,Bach,3,3,9804751,R,False,Accept
+954,56,M,Ad. Dip,0,0,4441205,R,False,Accept
+955,70,M,Bach,6,6,6028273,R,True,Accept
+956,21,M,Doct,19,14,710851,R,True,Accept
+957,32,M,Bach,3,3,4595385,R,False,Accept
+958,60,M,Doct,5,5,7098940,R,True,Accept
+959,73,M,Mst,5,5,2149916,R,True,Accept
+960,59,M,Bach,3,3,9804751,R,False,Accept
+961,23,M,Dip,20,3,2183371,O,False,Reject
+962,630,M,Mst,13,11,9099898,R,True,Accept
+963,57,M,Mst,8,7,5341055,R,True,Accept
+964,65,M,Doct,15,6,4281675,R,False,Accept
+965,65,M,Mst,19,9,267701,R,True,Accept
+966,71,M,Bach,18,14,2717694,R,True,Accept
+967,42,M,Bach,16,13,8035027,R,True,Accept
+968,69,M,Dip,5,5,8757417,R,True,Accept
+969,75,M,Ad. Dip,19,5,5155377,R,True,Accept
+970,32,M,Mst,9,9,3281748,R,True,Accept
+971,67,M,Bach,19,6,5188656,R,False,Accept
+972,30,M,Dip,2,2,5468664,R,False,Reject
+973,21,M,Bach,18,11,3474234,R,False,Accept
+974,62,M,Bach,4,4,5708503,R,False,Accept
+975,52,M,Bach,7,7,2162328,R,False,Accept
+976,76,M,Ad. Dip,12,4,1258983,R,False,Reject
+977,41,M,Dip,16,7,5523182,R,True,Accept
+978,64,M,Dip,11,5,1235590,R,True,Reject
+979,42,M,Bach,16,13,8035027,R,True,Accept
+980,67,M,Bach,2,2,4330847,R,False,Accept
+981,60,M,Bach,5,3,3679043,R,False,Accept
+982,61,M,Dip,13,10,5533812,O,True,Accept
+983,48,M,Bach,6,6,9775346,R,False,Reject
+984,50,M,Ad. Dip,11,11,1578598,R,False,Reject
+985,71,M,Mst,14,4,5977613,R,True,Accept
+986,25,M,Ad. Dip,15,14,1771499,N,False,Reject
+987,39,M,Doct,4,4,1600707,R,False,Accept
+988,45,M,Mst,3,3,462027,R,False,Accept
+989,49,M,Bach,12,4,8545933,R,True,Accept
+990,54,M,Mst,2,2,6838127,R,True,Accept
+991,50,M,Dip,12,9,1864462,N,False,Reject
+992,66,M,Bach,10,10,1728444,R,True,Accept
+993,51,F,Mst,20,6,8615779,R,True,Accept
+994,34,M,Bach,16,11,1078962,R,True,Accept
+995,78,M,Mst,0,0,354766,R,False,Accept
+996,70,M,Bach,6,6,6028273,R,True,Accept
+997,75,M,Ad. Dip,4,4,4359506,N,False,Accept
+998,73,M,Mst,7,4,611410,R,False,Accept
+999,63,M,Bach,3,3,2411292,R,False,Accept
+1000,24,M,Mst,12,12,4664922,R,False,Accept
+1001,79,M,Dip,6,6,9936818,R,False,Accept
+1002,44,M,Mst,14,11,3751781,R,False,Accept
+1003,32,M,Bach,17,7,3642033,R,False,Accept
+1004,45,M,Dip,14,3,9704228,R,False,Accept
+1005,73,M,Ad. Dip,19,3,1715334,O,False,Reject
+1006,47,M,Bach,3,3,6646287,R,False,Accept
+1007,74,M,Mst,20,14,7109627,N,True,Accept
+1008,53,M,Dip,15,5,3417203,R,False,Accept
+1009,64,M,Bach,17,10,865416,R,False,Accept
+1010,27,M,Ad. Dip,16,14,1697857,R,False,Reject
+1011,51,M,Bach,11,3,6340921,R,False,Accept
+1012,32,M,Bach,8,8,1595169,R,False,Reject
+1013,47,M,P. Doct,10,8,1810951,O,False,Reject
+1014,68,M,Mst,15,5,238566,R,False,Reject
+1015,58,M,Ad. Dip,19,4,1038909,R,True,Reject
+1016,39,M,P. Doct,10,3,6372556,R,True,Accept
+1017,30,F,P. Doct,1,1,1818095,R,False,Accept
+1018,45,M,Bach,11,8,4547051,R,False,Accept
+1019,51,M,Ad. Dip,2,2,1810213,R,True,Reject
+1020,78,M,Dip,10,5,8776828,R,False,Accept
+1021,37,M,Mst,5,5,6357644,R,False,Accept
+1022,42,M,Ad. Dip,18,13,3589662,R,True,Accept
+1023,64,M,Doct,16,7,1957434,R,True,Accept
+1024,30,M,Ad. Dip,20,11,5671193,R,False,Reject
+1025,22,M,Bach,15,7,7655074,R,False,Accept
+1026,30,M,Doct,19,12,8760061,R,False,Accept
+1027,46,M,P. Doct,10,10,8097859,R,False,Accept
+1028,48,M,Dip,11,11,9267569,R,False,Reject
+1029,65,M,Dip,16,8,5992148,R,False,Accept
+1030,39,M,P. Doct,10,3,6372556,R,True,Accept
+1031,53,M,Mst,6,6,4264991,R,False,Accept
+1032,39,M,Dip,14,8,9574183,R,True,Accept
+1033,46,M,Mst,18,5,8714860,R,False,Accept
+1034,29,F,Mst,1,1,5273020,R,False,Accept
+1035,45,M,Mst,3,3,462027,R,False,Accept
+1036,56,M,Bach,5,4,7331180,R,False,Accept
+1037,44,M,Bach,17,14,6754082,R,False,Accept
+1038,69,M,Ad. Dip,7,4,265595,R,False,Reject
+1039,60,M,Doct,16,3,5886958,R,False,Accept
+1040,37,M,Mst,5,5,6357644,R,False,Accept
+1041,56,F,Bach,20,7,16896,R,False,Accept
+1042,76,M,Dip,2,2,5186187,R,False,Accept
+1043,59,F,Mst,1,1,5712282,R,False,Accept
+1044,73,M,P. Doct,12,3,9897739,R,False,Accept
+1045,38,M,Mst,4,4,5375354,R,False,Accept
+1046,58,M,Doct,10,4,6244382,R,False,Accept
+1047,26,M,P. Doct,1,1,3158675,R,False,Accept
+1048,39,M,P. Doct,9,9,4072094,R,False,Accept
+1049,49,M,Doct,19,9,1625328,R,True,Accept
+1050,51,M,Bach,15,6,2307924,R,True,Accept
+1051,50,M,Ad. Dip,3,3,2062048,R,True,Reject
+1052,69,M,Bach,16,12,1066119,R,True,Reject
+1053,75,M,Dip,6,6,1061632,R,True,Reject
+1054,31,M,Bach,20,3,1006955,R,True,Accept
+1055,26,M,Bach,0,0,6467565,R,False,Accept
+1056,32,M,Ad. Dip,12,5,5734542,R,False,Accept
+1057,41,M,Ad. Dip,6,6,1669231,R,False,Reject
+1058,74,M,Doct,9,5,2418669,R,False,Accept
+1059,23,M,Mst,17,8,4137042,R,True,Accept
+1060,64,M,Dip,13,4,4651030,R,True,Accept
+1061,52,M,Bach,6,6,9024794,R,True,Accept
+1062,40,M,Doct,9,9,5646079,R,False,Accept
+1063,77,M,Dip,16,7,2940425,R,True,Reject
+1064,67,M,Bach,19,6,5188656,R,False,Accept
+1065,37,M,Mst,19,10,7245269,R,False,Accept
+1066,62,M,Mst,19,6,4347061,R,True,Accept
+1067,73,M,Mst,5,5,2149916,R,True,Accept
+1068,68,M,Dip,14,9,3840944,R,False,Accept
+1069,76,M,Dip,18,7,4512216,R,False,Accept
+1070,62,M,Mst,19,6,4347061,R,True,Accept
+1071,60,M,Mst,15,14,6669896,R,True,Accept
+1072,26,M,P. Doct,4,4,4342058,R,True,Accept
+1073,25,M,Ad. Dip,14,13,9404690,R,True,Reject
+1074,30,M,P. Doct,16,5,4899333,R,True,Accept
+1075,57,M,Mst,6,6,347548,R,False,Accept
+1076,56,M,P. Doct,20,6,3278154,R,False,Accept
+1077,72,M,Bach,9,5,9402303,R,False,Accept
+1078,45,M,Mst,8,8,2376582,R,False,Accept
+1079,70,M,Bach,18,10,7164498,R,False,Accept
+1080,50,M,Bach,12,10,9532596,R,False,Accept
+1081,77,M,Mst,15,8,3685843,N,False,Accept
+1082,51,M,Dip,6,6,5890510,R,False,Reject
+1083,66,M,Ad. Dip,19,8,1336270,R,False,Reject
+1084,24,M,Doct,8,7,7853718,R,False,Accept
+1085,39,M,Dip,14,8,9574183,R,True,Accept
+1086,69,M,Ad. Dip,5,5,9787696,R,True,Accept
+1087,75,M,Ad. Dip,20,12,1925567,O,True,Reject
+1088,70,M,Bach,16,8,655331,R,False,Accept
+1089,61,M,Dip,9,4,5316246,R,True,Accept
+1090,45,M,Dip,14,3,9704228,R,False,Accept
+1091,60,F,Bach,4,4,4759451,R,False,Accept
+1092,42,M,Bach,18,3,8056757,R,False,Accept
+1093,55,M,Mst,9,9,1309803,R,False,Accept
+1094,60,M,Ad. Dip,9,9,7488205,R,False,Reject
+1095,39,M,Ad. Dip,1,1,3255445,R,True,Accept
+1096,69,M,Bach,16,12,1066119,R,True,Accept
+1097,30,M,Dip,10,10,5250888,R,False,Reject
+1098,67,M,Bach,19,6,5188656,R,False,Accept
+1099,23,M,Bach,0,0,383282,R,True,Accept
+1100,27,M,Dip,14,3,3703244,R,False,Accept
+1101,70,M,Bach,12,8,3983449,R,False,Accept
+1102,77,M,Mst,18,14,8830162,R,False,Accept
+1103,22,M,Doct,14,5,4931330,R,True,Accept
+1104,71,F,Bach,14,12,3941355,R,False,Accept
+1105,21,M,Doct,5,5,4239717,R,False,Accept
+1106,79,M,Dip,19,13,4804358,R,False,Accept
+1107,30,F,Dip,0,0,4477660,R,True,Reject
+1108,31,F,Bach,6,4,5705462,R,True,Reject
+1109,50,M,Mst,2,2,9968031,R,False,Accept
+1110,46,M,Bach,19,11,6178223,O,True,Accept
+1111,50,M,Bach,11,4,2942291,O,False,Accept
+1112,63,M,Dip,3,3,9046485,R,True,Accept
+1113,70,M,Bach,8,8,4269729,R,True,Accept
+1114,74,M,Bach,2,2,5697624,R,True,Accept
+1115,34,F,Mst,9,8,9705356,R,False,Accept
+1116,33,M,Doct,14,4,4581003,R,False,Accept
+1117,79,M,Dip,19,13,4804358,R,False,Accept
+1118,51,M,Bach,15,6,2307924,R,True,Accept
+1119,24,M,Ad. Dip,18,4,6258651,R,False,Accept
+1120,75,M,Ad. Dip,6,6,5904431,R,True,Accept
+1121,67,F,Bach,13,4,8768562,R,False,Accept
+1122,48,M,P. Doct,18,14,5417823,O,True,Accept
+1123,72,M,Mst,20,5,7333976,R,False,Accept
+1124,76,M,Ad. Dip,12,4,1258983,R,False,Reject
+1125,43,F,Mst,12,12,8574834,R,False,Accept
+1126,37,M,Bach,12,12,975686,R,False,Accept
+1127,33,M,Bach,6,6,3169625,R,False,Accept
+1128,35,M,Bach,11,9,640220,R,False,Accept
+1129,37,M,Bach,13,12,6228967,R,False,Reject
+1130,30,M,Mst,12,12,9506126,O,False,Accept
+1131,27,M,Ad. Dip,12,4,182326,R,True,Reject
+1132,65,M,Doct,15,6,4281675,R,False,Accept
+1133,48,M,P. Doct,2,2,5648251,R,True,Accept
+1134,73,F,Doct,14,9,474864,R,False,Accept
+1135,34,M,Bach,9,9,1572647,N,True,Accept
+1136,52,M,Ad. Dip,7,5,1117250,R,False,Reject
+1137,36,F,Bach,17,13,630763,R,False,Accept
+1138,32,M,Bach,12,3,3081814,O,False,Accept
+1139,78,M,Dip,10,5,8776828,R,False,Accept
+1140,27,M,Doct,16,8,2776169,R,False,Accept
+1141,34,F,Mst,9,8,9705356,R,False,Accept
+1142,59,M,Mst,10,6,4925213,N,True,Accept
+1143,40,M,Doct,9,9,5646079,R,False,Accept
+1144,71,M,P. Doct,6,6,8230205,R,True,Accept
+1145,34,M,Bach,18,10,4739684,R,False,Accept
+1146,570,M,Ad. Dip,14,5,9912721,R,False,Reject
+1147,25,M,Bach,11,11,4137087,R,True,Accept
+1148,61,M,Dip,9,4,5316246,R,True,Accept
+1149,66,M,Ad. Dip,19,8,1336270,R,False,Reject
+1150,69,M,Bach,19,13,6836390,R,False,Accept
+1151,65,M,Doct,5,5,568591,R,False,Accept
+1152,63,M,Bach,9,5,6255658,R,False,Accept
+1153,59,F,Doct,1,1,7511735,R,False,Accept
+1154,63,M,Mst,13,11,9099898,R,True,Accept
+1155,73,M,Bach,15,3,485180,O,True,Accept
+1156,51,M,Dip,3,3,9280298,R,False,Accept
+1157,79,M,Dip,11,4,1759952,R,True,Reject
+1158,78,M,Doct,6,6,4957836,R,False,Accept
+1159,32,F,Ad. Dip,10,10,4552514,R,True,Accept
+1160,62,M,Bach,8,8,5688746,R,True,Accept
+1161,76,M,Doct,3,3,6810041,R,False,Accept
+1162,34,M,Ad. Dip,13,11,6035837,R,False,Reject
+1163,69,F,Doct,19,11,9224297,O,True,Accept
+1164,43,M,Doct,0,0,4110066,R,False,Accept
+1165,79,M,P. Doct,2,2,1532701,R,False,Accept
+1166,57,M,Mst,4,4,7555360,R,False,Accept
+1167,39,M,Bach,14,11,543441,R,True,Accept
+1168,24,M,Ad. Dip,18,4,6258651,R,False,Accept
+1169,47,M,Dip,19,6,6174825,R,False,Accept
+1170,47,M,Mst,8,8,1685054,R,False,Accept
+1171,26,M,Bach,13,3,8822191,R,False,Reject
+1172,45,M,Doct,19,4,1091777,R,True,Accept
+1173,26,M,Bach,19,6,7366133,R,False,Reject
+1174,71,M,Mst,8,7,5300443,R,True,Accept
+1175,30,M,Dip,6,4,3909537,R,False,Accept
+1176,24,M,Bach,1,1,5656977,R,True,Accept
+1177,33,F,Dip,13,11,6389669,R,False,Accept
+1178,26,M,Ad. Dip,12,4,5822214,R,False,Accept
+1179,69,M,Dip,8,6,8171432,O,True,Accept
+1180,69,M,Dip,11,10,6392012,R,False,Accept
+1181,56,M,P. Doct,20,6,3278154,R,False,Accept
+1182,50,M,Ad. Dip,3,3,2062048,R,True,Reject
+1183,23,M,Mst,6,6,4070923,R,True,Accept
+1184,65,M,Dip,16,8,5992148,R,False,Accept
+1185,41,M,Ad. Dip,2,2,4392927,R,False,Reject
+1186,60,M,Doct,16,3,5886958,R,False,Accept
+1187,40,M,Dip,9,7,6877905,R,True,Reject
+1188,25,M,Ad. Dip,18,6,2503612,R,False,Reject
+1189,43,F,Mst,12,12,8574834,R,False,Accept
+1190,66,M,Dip,6,6,6691539,R,False,Accept
+1191,47,M,Bach,2,2,3453372,R,False,Accept
+1192,76,M,Bach,8,5,7332667,R,False,Accept
+1193,56,M,P. Doct,18,9,6171221,R,False,Accept
+1194,48,M,Mst,6,6,3831317,R,False,Accept
+1195,50,M,Mst,15,9,9558037,R,True,Accept
+1196,73,M,Doct,4,4,5544342,O,False,Accept
+1197,28,M,Bach,0,0,1922998,R,True,Accept
+1198,72,M,Bach,9,5,9402303,R,False,Accept
+1199,72,M,Bach,12,12,53886,R,True,Accept
+1200,26,M,Doct,3,3,4748994,R,False,Reject
+1201,47,M,Ad. Dip,7,4,5110841,R,False,Accept
+1202,26,M,Mst,2,2,5131419,R,False,Reject
+1203,79,M,P. Doct,20,6,2415720,R,False,Accept
+1204,38,M,Ad. Dip,8,6,5258493,R,False,Accept
+1205,78,F,Mst,12,6,6487755,O,False,Accept
+1206,57,M,Bach,14,9,5633175,R,False,Accept
+1207,68,M,Mst,5,5,3022992,R,False,Accept
+1208,24,M,Dip,20,8,4536029,R,False,Reject
+1209,57,M,Ad. Dip,14,5,9912721,R,False,Accept
+1210,45,M,Ad. Dip,20,8,1463112,R,False,Reject
+1211,42,M,Dip,3,3,7441072,R,False,Accept
+1212,72,M,Bach,14,6,8925422,R,True,Accept
+1213,41,M,Dip,16,7,5523182,R,True,Accept
+1214,47,M,Ad. Dip,11,6,624985,R,False,Reject
+1215,48,M,P. Doct,2,2,5648251,R,True,Accept
+1216,60,M,Ad. Dip,9,9,7488205,R,False,Reject
+1217,48,M,Dip,11,11,9267569,R,False,Accept
+1218,24,M,Bach,1,1,5656977,R,True,Accept
+1219,27,M,Ad. Dip,12,4,182326,R,True,Reject
+1220,39,M,Doct,12,8,5052756,R,True,Accept
+1221,54,M,Mst,6,6,3057698,R,False,Accept
+1222,60,M,Doct,20,7,6775535,R,False,Accept
+1223,76,M,Dip,2,2,5186187,R,False,Reject
+1224,31,M,Dip,1,1,1279896,R,True,Reject
+1225,56,M,Bach,16,3,8808852,R,False,Accept
+1226,62,M,Bach,8,8,5688746,R,True,Accept
+1227,26,M,Mst,2,2,5131419,R,False,Reject
+1228,70,M,Doct,16,14,9500602,R,False,Accept
+1229,55,M,Mst,10,8,2542814,R,False,Accept
+1230,54,M,Bach,14,3,214045,R,False,Accept
+1231,22,F,Ad. Dip,16,6,2447892,R,False,Reject
+1232,73,M,Mst,4,4,846114,R,False,Accept
+1233,54,M,Doct,13,3,6415225,R,False,Accept
+1234,37,M,Bach,14,6,413950,R,False,Accept
+1235,29,M,Doct,11,5,1392884,R,True,Accept
+1236,40,M,Doct,3,3,6200661,R,False,Accept
+1237,40,M,Mst,8,5,8939837,R,False,Accept
+1238,41,M,Bach,8,8,9961539,O,True,Accept
+1239,29,M,Mst,2,2,5557295,R,False,Accept
+1240,35,M,Mst,9,7,1666705,R,NaN,Accept
+1241,41,M,Bach,12,3,3755934,R,False,Accept
+1242,53,F,Ad. Dip,7,7,2915711,R,False,Reject
+1243,76,M,Bach,19,5,7524377,R,False,Accept
+1244,72,M,Bach,14,6,8925422,R,True,Accept
+1245,77,M,Dip,20,6,2608473,R,False,Reject
+1246,43,M,Doct,16,4,2814087,R,True,Accept
+1247,65,M,Bach,6,6,7767461,O,False,Accept
+1248,67,M,Doct,7,7,7273711,R,False,Accept
+1249,64,F,Bach,7,7,2212744,R,False,Accept
+1250,30,M,Dip,2,2,5468664,R,False,Reject
+1251,23,M,Mst,17,11,2860021,N,False,Accept
+1252,55,M,Dip,13,13,4642438,R,False,Reject
+1253,31,F,NaN,19,7,7204121,R,False,Accept
+1254,27,M,Doct,9,3,9025787,R,False,Accept
+1255,70,M,Mst,16,11,7667833,R,False,Accept
+1256,79,M,Dip,7,7,2810048,R,False,Reject
+1257,56,M,Doct,2,2,9627539,R,True,Accept
+1258,60,M,Mst,4,4,5021477,R,False,Accept
+1259,48,M,Bach,4,3,4507766,R,False,Accept
+1260,48,F,Ad. Dip,2,2,6805823,R,True,Accept
+1261,78,M,Doct,17,8,3469743,R,NaN,Accept
+1262,39,M,Bach,1,1,5448587,R,False,Accept
+1263,63,M,Bach,5,5,5269149,R,True,Accept
+1264,32,M,P. Doct,5,4,3167295,R,True,Accept
+1265,21,M,Mst,20,5,9138975,O,False,Reject
+1266,65,M,Doct,15,6,4281675,R,False,Accept
+1267,45,M,Ad. Dip,6,6,6409449,R,False,Accept
+1268,29,M,Mst,2,2,5557295,R,False,Accept
+1269,29,M,Bach,3,3,3242214,R,False,Accept
+1270,64,M,Bach,10,10,8753203,R,True,Accept
+1271,24,M,Bach,15,5,6972015,R,False,Accept
+1272,37,M,Mst,19,10,7245269,R,False,Accept
+1273,68,M,Bach,18,14,1808178,R,True,Accept
+1274,56,M,Dip,13,8,6744134,R,True,Reject
+1275,25,M,Ad. Dip,18,6,2503612,R,False,Reject
+1276,60,M,Doct,16,3,5886958,R,False,Accept
+1277,67,M,Bach,8,3,2060668,R,True,Accept
+1278,32,M,Mst,11,8,3508614,R,False,Accept
+1279,59,F,Doct,1,1,7511735,R,False,Accept
+1280,51,M,Mst,19,8,3932375,R,True,Accept
+1281,70,M,Mst,19,13,5778620,R,True,Accept
+1282,45,M,Ad. Dip,20,8,1463112,R,False,Reject
+1283,79,M,Mst,12,5,3105209,R,False,Accept
+1284,47,F,Dip,14,13,9653146,R,False,Accept
+1285,21,F,Mst,8,7,16890,R,False,Accept
+1286,28,M,Bach,9,9,5178562,R,False,Accept
+1287,21,M,Dip,7,7,3873393,R,True,Reject
+1288,48,M,Ad. Dip,18,6,529939,R,False,Reject
+1289,61,M,Mst,9,9,527900,R,True,Reject
+1290,63,M,Bach,19,14,3304937,R,True,Accept
+1291,75,M,Doct,2,2,4846957,R,True,Accept
+1292,60,F,Bach,4,4,4759451,R,False,Accept
+1293,74,M,Bach,13,9,7583437,O,True,Accept
+1294,70,M,Mst,19,13,5778620,R,True,Accept
+1295,48,F,Bach,15,3,6716922,R,True,Accept
+1296,53,M,Dip,4,4,8679480,R,False,Accept
+1297,60,M,Mst,17,11,1357022,R,True,Reject
+1298,39,M,Doct,14,7,8811537,R,False,Accept
+1299,47,M,Mst,14,3,747665,R,True,Reject
+1300,70,M,Bach,16,8,655331,R,False,Accept
+1301,71,M,P. Doct,16,7,1453061,R,False,Accept
+1302,57,M,Bach,3,3,2854227,R,False,Accept
+1303,75,M,Bach,9,3,9689527,R,False,Reject
+1304,59,M,Mst,12,8,9885445,R,False,Accept
+1305,70,F,NaN,9,5,7363274,R,False,Accept
+1306,50,M,Mst,6,6,4032380,R,False,Accept
+1307,45,M,Bach,11,8,4547051,R,False,Accept
+1308,22,F,Ad. Dip,16,6,2447892,R,False,Reject
+1309,39,F,Doct,20,3,4671184,R,True,Accept
+1310,70,M,Mst,6,4,6706117,R,False,Accept
+1311,48,F,Dip,2,2,368667,R,False,Reject
+1312,76,M,Bach,8,5,7332667,R,False,Accept
+1313,52,M,Bach,7,7,2162328,R,False,Accept
+1314,22,M,Mst,15,7,3791460,R,False,Accept
+1315,27,M,Mst,10,4,4707147,R,False,Accept
+1316,71,M,Mst,8,7,5300443,R,True,Accept
+1317,59,M,Mst,19,10,4820444,R,True,Accept
+1318,75,F,Bach,8,8,3125755,R,False,Accept
+1319,50,M,Mst,1,1,4209565,R,False,Reject
+1320,23,M,Dip,20,3,2183371,O,False,Reject
+1321,68,M,P. Doct,19,14,243245,R,False,Accept
+1322,470,M,Dip,20,8,9016179,R,True,Accept
+1323,66,M,Dip,6,6,6691539,R,False,Accept
+1324,75,M,Ad. Dip,20,12,1925567,O,True,Reject
+1325,49,M,Bach,12,4,8545933,R,True,Accept
+1326,66,M,Bach,3,3,5616939,R,True,Accept
+1327,39,M,Ad. Dip,1,1,3255445,R,True,Accept
+1328,25,M,Bach,18,12,389805,R,False,Accept
+1329,62,M,Doct,2,2,4356905,N,True,Accept
+1330,24,M,Mst,6,6,9111852,R,True,Accept
+1331,37,M,Doct,7,7,2344126,R,True,Accept
+1332,44,M,Ad. Dip,16,5,998868,R,False,Reject
+1333,76,M,Ad. Dip,12,4,1258983,R,False,Reject
+1334,21,M,Mst,13,10,2726309,R,True,Accept
+1335,45,F,Bach,3,3,6789928,R,False,Accept
+1336,45,F,Doct,1,1,5505572,R,True,Accept
+1337,72,F,P. Doct,18,4,220528,R,False,Accept
+1338,31,M,Bach,20,3,1006955,R,True,Accept
+1339,27,M,Ad. Dip,12,4,182326,R,True,Reject
+1340,48,M,Bach,6,6,9775346,R,False,Reject
+1341,68,M,Bach,20,11,6973369,R,False,Reject
+1342,75,M,Ad. Dip,20,12,1925567,O,True,Reject
+1343,39,M,Dip,7,7,6979096,R,False,Accept
+1344,24,F,Mst,10,10,2431771,R,False,Accept
+1345,49,M,Ad. Dip,8,8,9008586,R,False,Accept
+1346,29,M,Mst,2,2,5557295,R,False,Accept
+1347,66,M,P. Doct,15,14,612912,R,False,Accept
+1348,35,M,Mst,9,7,1666705,R,True,Accept
+1349,22,M,Mst,15,7,3791460,R,False,Accept
+1350,55,M,Dip,16,8,9472148,R,False,Accept
+1351,76,M,Bach,9,9,90178,R,False,Accept
+1352,30,F,Dip,0,0,4477660,R,True,Accept
+1353,33,M,Bach,8,4,704775,R,False,Accept
+1354,31,M,Bach,17,4,75494,R,False,Accept
+1355,46,M,Bach,19,11,6178223,O,True,Accept
+1356,53,M,Doct,18,12,9757979,R,False,Accept
+1357,47,M,Bach,6,6,3483388,R,False,Accept
+1358,72,M,Mst,19,4,7084312,R,False,Accept
+1359,44,M,Bach,18,9,353654,O,False,Accept
+1360,53,F,Mst,16,7,5569351,R,False,Accept
+1361,45,M,Doct,13,5,4807368,O,True,Accept
+1362,21,M,Doct,5,5,4239717,R,False,Accept
+1363,74,M,Bach,1,1,8451218,R,False,Accept
+1364,22,M,Bach,11,3,9127290,R,False,Accept
+1365,48,M,Bach,6,6,9775346,R,False,Reject
+1366,58,M,Doct,10,4,6244382,R,False,Accept
+1367,34,F,Ad. Dip,0,0,2882498,R,False,Reject
+1368,70,M,Doct,17,13,3247184,R,True,Accept
+1369,39,M,Bach,14,11,543441,R,True,Accept
+1370,78,M,Dip,12,10,2304265,R,False,Reject
+1371,56,M,P. Doct,20,6,3278154,R,False,Accept
+1372,26,M,P. Doct,6,6,2244337,R,True,Reject
+1373,55,M,Bach,13,11,7512179,R,False,Accept
+1374,27,M,Bach,15,5,5512191,R,False,Accept
+1375,63,M,Bach,3,3,2411292,R,False,Accept
+1376,78,F,Mst,12,6,6487755,O,False,Accept
+1377,56,M,Dip,2,2,2362103,R,False,Reject
+1378,64,M,Dip,13,4,4651030,R,True,Accept
+1379,42,M,Bach,18,3,8056757,R,False,Accept
+1380,78,M,Ad. Dip,18,5,3654298,R,True,Accept
+1381,54,M,Mst,6,6,3057698,R,False,Accept
+1382,24,M,Doct,2,2,6626762,R,False,Accept
+1383,62,M,Mst,19,6,4347061,R,True,Accept
+1384,30,M,Doct,19,12,8760061,R,False,Accept
+1385,74,M,Mst,9,5,9693465,R,False,Accept
+1386,26,M,Dip,0,0,1821438,R,True,Reject
+1387,78,M,Doct,17,8,3469743,R,False,Accept
+1388,58,M,Doct,3,3,5372795,R,False,Accept
+1389,55,M,Mst,5,5,7373361,R,False,Accept
+1390,78,M,Dip,10,5,8776828,R,False,Accept
+1391,49,F,Doct,20,7,1103708,N,False,Reject
+1392,73,M,Doct,17,5,5725424,R,False,Accept
+1393,56,M,Bach,16,3,8808852,R,NaN,Reject
+1394,67,M,Bach,3,3,1683313,R,False,Accept
+1395,25,F,P. Doct,17,9,499939,R,True,Accept
+1396,23,M,Bach,11,11,7628018,O,False,Reject
+1397,56,M,P. Doct,20,6,3278154,R,False,Accept
+1398,50,M,Bach,13,3,9213176,R,False,Accept
+1399,39,M,Ad. Dip,1,1,3255445,R,True,Accept
+1400,22,M,Ad. Dip,2,2,8437491,R,False,Reject
+1401,56,M,Dip,2,2,2362103,R,False,Reject
+1402,34,M,Bach,2,2,8096506,R,True,Accept
+1403,30,M,Doct,19,12,8760061,R,False,Accept
+1404,25,M,Bach,18,12,389805,R,False,Accept
+1405,78,M,Dip,12,10,2304265,R,False,Reject
+1406,54,M,Dip,13,3,4323553,R,False,Accept
+1407,37,M,Mst,19,10,724526900,R,False,Accept
+1408,63,M,P. Doct,14,14,3255548,R,False,Accept
+1409,77,M,Dip,7,5,9776427,R,True,Accept
+1410,78,M,Bach,19,3,2926477,R,False,Accept
+1411,58,M,Ad. Dip,5,5,4979199,R,False,Accept
+1412,26,M,Dip,10,10,3871972,R,False,Accept
+1413,26,M,Ad. Dip,13,7,7458144,R,True,Accept
+1414,23,M,Ad. Dip,18,11,6881187,R,False,Accept
+1415,69,F,Doct,19,11,9224297,O,True,Accept
+1416,66,M,Mst,8,6,3046534,R,False,Accept
+1417,46,M,Bach,16,3,5160725,R,False,Accept
+1418,53,M,Doct,4,4,5911221,R,False,Accept
+1419,42,M,Mst,16,5,3979671,R,True,Accept
+1420,39,F,Doct,20,3,4671184,R,True,Accept
+1421,57,M,Mst,4,4,7555360,R,False,Accept
+1422,34,M,Bach,12,9,6634248,R,False,Accept
+1423,48,M,Bach,6,6,9775346,R,False,Accept
+1424,61,M,Dip,13,10,5533812,O,True,Accept
+1425,40,M,Mst,8,5,8939837,R,False,Accept
+1426,66,M,P. Doct,2,2,5681527,R,False,Accept
+1427,45,M,Doct,13,5,4807368,O,NaN,Accept
+1428,44,M,Ad. Dip,16,5,998868,R,False,Reject
+1429,22,M,Doct,18,8,4089728,R,False,Accept
+1430,77,M,Dip,16,7,2940425,R,True,Reject
+1431,22,M,Bach,11,3,9127290,R,False,Reject
+1432,75,F,NaN,8,8,3125755,R,False,Accept
+1433,66,M,Bach,15,13,8405858,R,True,Accept
+1434,57,F,Bach,7,7,1364982,R,False,Accept
+1435,60,M,Doct,1,1,4268171,R,True,Accept
+1436,45,M,Bach,5,3,1929764,R,False,Reject
+1437,62,M,P. Doct,9,9,3375231,R,False,Accept
+1438,22,M,Bach,9,6,3140216,R,False,Accept
+1439,42,M,Mst,13,4,6899078,R,False,Accept
+1440,48,M,Bach,16,9,1996629,R,False,Accept
+1441,69,M,Dip,5,5,8757417,R,True,Accept
+1442,64,M,Ad. Dip,3,3,7458916,R,False,Accept
+1443,67,M,Bach,4,4,749226,R,True,Accept
+1444,21,M,Doct,0,0,6239164,R,False,Accept
+1445,76,M,Bach,8,5,7332667,R,False,Accept
+1446,54,M,Doct,3,3,4520166,R,False,Accept
+1447,77,M,Mst,15,8,3685843,N,False,Accept
+1448,22,M,Bach,15,7,7655074,R,False,Accept
+1449,30,F,P. Doct,1,1,1818095,R,False,Reject
+1450,38,M,Mst,5,5,5990216,R,False,Accept
+1451,39,M,Doct,4,4,1600707,R,False,Accept
+1452,42,M,Mst,16,5,3979671,R,True,Accept
+1453,34,F,Mst,9,8,9705356,R,False,Accept
+1454,37,M,Bach,12,12,975686,R,False,Accept
+1455,71,M,P. Doct,6,6,8230205,R,True,Accept
+1456,29,M,Mst,4,4,143036,R,False,Accept
+1457,39,M,P. Doct,1,1,6043601,R,False,Reject
+1458,57,M,Mst,6,6,1909861,R,True,Accept
+1459,72,M,Dip,12,12,2307642,R,False,Reject
+1460,57,M,Mst,17,5,4503934,R,False,Accept
+1461,52,M,Ad. Dip,0,0,3356017,R,True,Accept
+1462,53,M,Doct,18,12,9757979,R,False,Accept
+1463,64,M,Dip,13,13,9538603,R,True,Accept
+1464,67,M,Bach,19,6,5188656,R,False,Accept
+1465,77,M,Ad. Dip,17,7,4056954,R,True,Accept
+1466,77,M,Dip,7,5,9776427,R,True,Accept
+1467,67,M,Bach,8,3,2060668,R,True,Accept
+1468,53,M,Bach,12,11,6565653,O,False,Reject
+1469,64,M,Ad. Dip,3,3,7458916,R,False,Accept
+1470,74,M,Bach,16,11,1235759,R,True,Accept
+1471,39,M,P. Doct,9,9,4072094,R,False,Accept
+1472,65,M,Bach,19,11,3054126,O,True,Accept
+1473,34,M,Bach,2,2,7747297,R,False,Accept
+1474,68,M,Mst,9,9,651402,R,True,Accept
+1475,32,M,Doct,15,11,6816199,R,True,Accept
+1476,21,M,Mst,15,10,7246401,R,False,Accept
+1477,33,F,Doct,12,11,7731278,R,False,Accept
+1478,76,M,Dip,18,7,4512216,R,False,Accept
+1479,37,M,Bach,17,7,7257940,R,False,Accept
+1480,37,M,Ad. Dip,14,12,3741822,R,False,Accept
+1481,26,M,Mst,17,11,1537208,R,False,Accept
+1482,23,M,Mst,3,3,7058074,R,False,Accept
+1483,48,M,Doct,4,4,6159929,R,False,Reject
+1484,43,M,Bach,14,12,1242747,R,True,Accept
+1485,57,M,Mst,4,4,7555360,R,False,Accept
+1486,58,M,Doct,10,4,6244382,R,False,Accept
+1487,42,M,Mst,7,7,9623497,R,True,Accept
+1488,60,M,Doct,5,5,7098940,R,True,Accept
+1489,26,M,Ad. Dip,12,4,5822214,R,False,Reject
+1490,63,M,Dip,3,3,9046485,R,True,Accept
+1491,22,M,Bach,11,3,9127290,R,False,Reject
+1492,68,M,Mst,5,5,3022992,R,False,Accept
+1493,39,M,P. Doct,10,3,6372556,R,True,Accept
+1494,43,F,Mst,12,12,8574834,R,False,Accept
+1495,61,M,Mst,3,3,6359903,R,True,Accept
+1496,22,M,Bach,11,3,9127290,R,False,Reject
+1497,30,M,Doct,14,6,6374359,R,True,Accept
+1498,51,F,Mst,17,14,452661,R,False,Accept
+1499,51,M,Mst,9,8,224204,N,False,Accept
+1500,70,M,Bach,14,12,7177631,R,False,Accept
+1501,48,M,Bach,6,6,2063905,R,False,Accept
+1502,55,M,Mst,10,8,2542814,R,False,Accept
+1503,49,M,Bach,6,4,5617242,R,False,Accept
+1504,23,M,Doct,2,2,7541730,R,False,Accept
+1505,71,M,Dip,5,5,5793046,R,False,Accept
+1506,41,M,Doct,15,14,5866909,R,False,Accept
+1507,26,M,P. Doct,6,6,2244337,R,True,Accept
+1508,24,M,Bach,1,1,5656977,R,True,Accept
+1509,33,M,Doct,1,1,1500230,R,True,Accept
+1510,59,M,Bach,3,3,9804751,R,False,Accept
+1511,24,M,Doct,17,14,1995634,R,False,Reject
+1512,77,M,Dip,15,4,4194473,NaN,False,Reject
+1513,76,M,Dip,18,7,4512216,R,False,Accept
+1514,41,M,Ad. Dip,2,2,4392927,R,False,Reject
+1515,50,M,Mst,1,1,4209565,R,False,Accept
+1516,55,M,Ad. Dip,9,9,780090,N,False,Reject
+1517,21,M,Mst,13,10,2726309,R,True,Accept
+1518,30,M,Dip,6,4,3909537,R,False,Accept
+1519,67,M,Dip,4,4,4763580,R,False,Accept
+1520,60,M,Bach,10,4,8135531,O,False,Accept
+1521,61,F,Ad. Dip,3,3,8454331,R,False,Accept
+1522,48,M,Dip,11,11,9267569,R,False,Reject
+1523,42,M,Mst,7,7,9623497,R,True,Accept
+1524,32,M,Bach,17,7,3642033,R,False,Accept
+1525,56,M,Bach,16,3,8808852,R,False,Reject
+1526,55,M,Bach,18,10,3861206,R,False,Accept
+1527,52,M,Bach,7,7,2162328,R,False,Accept
+1528,62,M,Bach,12,7,912294,R,True,Accept
+1529,27,M,Ad. Dip,7,7,4062276,R,False,Accept
+1530,47,M,Ad. Dip,11,6,624985,R,False,Reject
+1531,57,M,Bach,12,8,9530702,R,False,Accept
+1532,55,M,Bach,2,2,4547766,R,True,Accept
+1533,47,M,Ad. Dip,13,13,5338690,R,False,Accept
+1534,39,M,Bach,11,11,4991059,R,False,Accept
+1535,76,M,Bach,9,9,90178,R,False,Reject
+1536,57,M,Bach,8,8,1486552,R,False,Accept
+1537,26,M,P. Doct,0,0,8801121,R,True,Accept
+1538,61,M,Dip,9,4,5316246,R,True,Accept
+1539,76,M,Bach,8,8,8237019,R,True,Accept
+1540,59,M,Mst,5,5,182308,R,False,Accept
+1541,50,M,Mst,1,1,4209565,R,False,Reject
+1542,42,M,Ad. Dip,4,4,80925,R,False,Accept
+1543,26,M,Ad. Dip,13,7,7458144,R,True,Reject
+1544,50,M,Doct,9,4,5301870,R,False,Accept
+1545,56,M,P. Doct,1,1,1999332,R,False,Accept
+1546,61,M,Ad. Dip,15,5,9036246,R,False,Reject
+1547,47,M,Bach,8,8,8280136,R,False,Accept
+1548,54,M,Ad. Dip,8,8,2562525,R,True,Reject
+1549,30,M,Dip,10,10,5250888,R,False,Reject
+1550,74,F,Doct,3,3,3905134,R,False,Accept
+1551,78,M,Mst,8,8,3422262,R,True,Accept
+1552,64,F,Bach,7,7,2212744,R,False,Accept
+1553,70,M,Doct,16,14,9500602,R,False,Accept
+1554,57,M,Bach,10,10,9803314,R,False,Accept
+1555,55,M,Dip,16,8,9472148,R,False,Accept
+1556,29,M,Mst,2,2,5557295,R,False,Accept
+1557,67,M,Bach,6,5,4069436,R,True,Accept
+1558,21,F,Mst,8,7,16890,R,False,Accept
+1559,24,M,Ad. Dip,19,13,1056300,R,True,Reject
+1560,52,M,Mst,7,3,2915841,R,False,Accept
+1561,48,F,Dip,6,6,5675460,R,False,Accept
+1562,50,M,P. Doct,9,9,5094060,R,True,Accept
+1563,68,M,Bach,15,5,1578007,R,False,Accept
+1564,26,M,Mst,2,2,5131419,NaN,False,Reject
+1565,50,M,Doct,7,4,1381568,R,False,Accept
+1566,76,M,Ad. Dip,12,4,1258983,R,False,Reject
+1567,56,M,Ad. Dip,8,8,813705000,O,False,Accept
+1568,69,M,Ad. Dip,8,8,1818927,R,False,Reject
+1569,41,F,Mst,16,10,103611,R,False,Accept
+1570,42,M,Bach,16,7,4590372,R,False,Accept
+1571,66,M,Dip,6,6,6691539,R,False,Accept
+1572,51,M,Mst,9,8,224204,N,False,Accept
+1573,45,M,Doct,4,3,7641698,R,False,Accept
+1574,44,M,P. Doct,18,14,8087598,R,False,Accept
+1575,71,F,Ad. Dip,7,3,2090531,R,False,Reject
+1576,59,M,Ad. Dip,14,9,2214416,R,True,Reject
+1577,68,M,Bach,2,2,3503990,R,False,Reject
+1578,74,M,Bach,1,1,8451218,R,False,Accept
+1579,23,M,Bach,0,0,383282,R,True,Accept
+1580,77,M,Dip,18,13,4167093,O,False,Accept
+1581,72,F,Ad. Dip,19,3,1503033,R,False,Reject
+1582,75,M,Mst,6,6,4305317,R,False,Accept
+1583,32,M,Ad. Dip,7,7,1353064,R,False,Reject
+1584,24,M,Ad. Dip,1,1,2630417,R,True,Reject
+1585,53,M,Dip,15,5,3417203,R,False,Reject
+1586,58,M,Mst,5,5,9400836,R,True,Accept
+1587,60,M,Doct,12,10,4828285,R,True,Accept
+1588,72,M,Doct,19,9,5123690,R,False,Accept
+1589,31,M,Bach,20,3,1006955,R,True,Accept
+1590,74,M,Mst,20,14,7109627,N,True,Accept
+1591,480,M,P. Doct,2,2,3663967,R,True,Accept
+1592,55,M,Dip,13,13,4642438,R,False,Reject
+1593,74,F,Doct,3,3,3905134,R,False,Accept
+1594,22,M,Ad. Dip,3,3,2974289,R,False,Reject
+1595,56,M,Doct,15,8,9299383,R,False,Reject
+1596,74,M,Bach,17,5,4935105,R,False,Accept
+1597,30,M,P. Doct,16,5,4899333,R,True,Accept
+1598,46,M,Doct,19,5,4954873,R,False,Accept
+1599,78,M,Mst,0,0,354766,R,False,Accept
+1600,57,M,Dip,7,7,3952093,R,False,Reject
+1601,27,M,Ad. Dip,12,4,182326,R,True,Reject
+1602,71,M,Mst,14,4,5977613,R,True,Accept
+1603,51,M,Doct,15,5,2238029,R,True,Accept
+1604,44,F,Mst,16,6,6619894,R,True,Accept
+1605,52,M,Ad. Dip,0,0,3356017,R,True,Accept
+1606,47,M,Mst,0,0,9292764,O,False,Accept
+1607,27,M,Mst,10,4,4707147,R,False,Accept
+1608,25,M,Mst,5,5,2400773,R,False,Accept
+1609,50,M,Mst,5,5,176037600,R,False,Accept
+1610,27,M,Doct,16,8,2776169,R,False,Accept
+1611,34,M,Ad. Dip,13,11,6035837,R,False,Reject
+1612,27,M,Ad. Dip,12,4,182326,R,True,Reject
+1613,53,F,Ad. Dip,7,7,2915711,R,False,Reject
+1614,57,M,Doct,12,6,733884,R,False,Accept
+1615,30,M,Ad. Dip,3,3,3589652,R,False,Accept
+1616,66,M,Bach,3,3,5616939,R,True,Accept
+1617,67,M,Bach,19,11,446041,R,False,Accept
+1618,72,M,Dip,4,4,9768431,O,True,Accept
+1619,78,M,Mst,8,8,3422262,R,True,Accept
+1620,57,F,Doct,13,13,5178739,R,True,Accept
+1621,64,M,Ad. Dip,19,5,5004938,R,False,Accept
+1622,55,M,Ad. Dip,9,9,780090,N,False,Reject
+1623,74,M,Dip,17,9,8893842,R,True,Accept
+1624,56,M,Mst,18,4,8840382,R,False,Reject
+1625,57,M,Ad. Dip,14,5,9912721,R,False,Accept
+1626,49,M,Bach,0,0,4387681,R,False,Accept
+1627,48,M,Bach,12,12,9348360,R,True,Accept
+1628,64,M,Bach,10,10,8753203,R,True,Accept
+1629,40,M,Dip,17,5,713017,R,True,Reject
+1630,26,M,Mst,7,4,9338129,R,False,Accept
+1631,68,M,Mst,9,9,651402,R,True,Accept
+1632,31,F,Mst,9,9,2451457,R,False,Accept
+1633,22,M,Ad. Dip,1,1,5733421,R,False,Accept
+1634,48,M,Ad. Dip,18,6,529939,R,False,Reject
+1635,66,M,Dip,6,6,5966818,R,True,Accept
+1636,72,M,Bach,14,11,2175504,R,False,Accept
+1637,50,F,Bach,16,3,4795246,R,True,Accept
+1638,77,M,Mst,10,9,702863,R,False,Accept
+1639,29,M,Bach,13,10,6298584,R,False,Accept
+1640,69,M,Doct,2,2,6197216,R,False,Accept
+1641,26,M,Mst,2,2,5131419,R,False,Accept
+1642,76,M,Bach,9,9,90178,R,False,Accept
+1643,53,M,Mst,9,9,1122674,R,False,Accept
+1644,37,F,Ad. Dip,12,12,1659351,R,True,Reject
+1645,56,M,Bach,16,3,8808852,R,False,Accept
+1646,33,M,Doct,19,14,3699148,R,False,Accept
+1647,64,M,Dip,9,9,2770155,R,True,Reject
+1648,54,M,Mst,8,5,8680812,R,False,Accept
+1649,25,M,Bach,14,8,362328,R,False,Accept
+1650,51,M,Bach,2,2,7794515,R,False,Accept
+1651,40,M,Bach,18,3,4816663,R,False,Accept
+1652,69,M,Dip,8,6,8171432,NaN,True,Reject
+1653,75,F,Bach,8,8,3125755,R,False,Accept
+1654,70,M,Bach,6,6,6028273,R,True,Accept
+1655,31,M,Bach,20,3,1006955,R,True,Accept
+1656,43,F,Bach,9,9,9139229,R,False,Accept
+1657,63,M,Bach,9,5,6255658,R,False,Accept
+1658,63,M,Doct,15,7,2477727,R,False,Reject
+1659,76,M,Mst,0,0,5394516,R,False,Accept
+1660,75,F,Mst,13,13,1500447,R,False,Reject
+1661,61,M,Ad. Dip,3,3,1669654,NaN,False,Reject
+1662,27,M,Mst,0,0,7231280,R,True,Accept
+1663,55,M,Dip,16,8,9472148,R,False,Accept
+1664,30,F,Doct,6,6,8968051,R,True,Reject
+1665,67,M,Bach,4,4,749226,R,True,Accept
+1666,26,M,P. Doct,11,11,2408696,R,False,Accept
+1667,31,F,Mst,9,9,2451457,R,False,Accept
+1668,31,M,Doct,8,8,7053325,R,False,Accept
+1669,58,M,Doct,13,11,770457,R,False,Accept
+1670,29,M,Doct,11,5,1392884,R,True,Accept
+1671,21,F,Dip,0,0,8683216,R,False,Reject
+1672,24,M,Bach,11,11,3006454,N,False,Accept
+1673,36,M,Ad. Dip,17,11,6257620,R,True,Accept
+1674,76,M,Ad. Dip,12,4,1258983,R,False,Reject
+1675,30,F,Dip,0,0,4477660,R,True,Accept
+1676,79,M,Mst,12,5,3105209,R,False,Accept
+1677,48,F,Dip,2,2,368667,R,False,Reject
+1678,56,M,Dip,11,9,2579795,R,False,Reject
+1679,60,M,Mst,4,4,5021477,R,False,Accept
+1680,35,M,Ad. Dip,9,9,2742207,R,False,Reject
+1681,64,M,Dip,9,9,2770155,R,True,Reject
+1682,70,M,Bach,6,6,6028273,R,True,Accept
+1683,74,M,Bach,17,5,4935105,R,False,Accept
+1684,48,M,Ad. Dip,12,4,6911597,R,False,Accept
+1685,52,M,Mst,2,2,9204815,R,True,Accept
+1686,36,M,Doct,1,1,5831049,R,False,Accept
+1687,76,M,Dip,3,3,3412117,R,True,Reject
+1688,50,M,Doct,9,4,5301870,R,False,Accept
+1689,75,M,Dip,6,6,1061632,R,True,Reject
+1690,38,M,Doct,20,9,2034897,R,False,Accept
+1691,70,M,Bach,8,8,4269729,R,True,Accept
+1692,22,M,Doct,14,5,4931330,R,True,Accept
+1693,76,M,Mst,4,4,9370159,R,True,Accept
+1694,78,M,Mst,13,11,3957826,R,False,Reject
+1695,23,M,Ad. Dip,18,11,6881187,R,False,Accept
+1696,26,M,Doct,4,4,2135335,R,False,Accept
+1697,41,M,Doct,15,14,5866909,R,False,Accept
+1698,29,M,Mst,2,2,5557295,R,False,Accept
+1699,63,M,Bach,13,10,9254833,R,True,Accept
+1700,68,M,Doct,4,4,7087601,R,False,Accept
+1701,56,M,Dip,2,2,2362103,R,False,Reject
+1702,43,M,Doct,0,0,4110066,R,False,Accept
+1703,32,M,Bach,16,10,1013313,R,False,Accept
+1704,79,M,Mst,0,0,1687470,R,False,Accept
+1705,57,M,Dip,16,3,7556052,O,True,Reject
+1706,37,M,Ad. Dip,14,12,3741822,R,False,Accept
+1707,28,M,Doct,19,13,7282131,R,False,Accept
+1708,66,F,Bach,3,3,8199311,R,True,Accept
+1709,590,F,P. Doct,18,3,4638141,R,False,Accept
+1710,71,M,Doct,0,0,8397564,R,False,Accept
+1711,79,M,Bach,19,6,6659607,R,False,Reject
+1712,45,M,Bach,10,5,62100,R,True,Accept
+1713,45,F,Bach,3,3,6789928,R,False,Accept
+1714,25,M,Mst,5,5,2400773,R,False,Accept
+1715,26,M,Dip,10,10,3871972,R,False,Accept
+1716,32,M,Bach,15,3,2541624,R,False,Reject
+1717,78,M,Bach,19,3,2926477,R,False,Reject
+1718,67,M,Doct,7,7,7273711,R,False,Accept
+1719,66,M,Ad. Dip,5,5,6098658,R,True,Accept
+1720,54,M,Doct,13,3,6415225,R,False,Accept
+1721,50,M,Doct,7,4,1381568,R,False,Accept
+1722,29,M,Dip,19,5,9817801,R,False,Accept
+1723,74,M,Doct,18,7,6020689,R,False,Accept
+1724,48,M,Ad. Dip,18,6,529939,R,False,Reject
+1725,21,F,Mst,8,7,16890,R,False,Accept
+1726,27,M,Mst,9,4,6889369,R,False,Accept
+1727,31,M,Bach,17,4,7549491,R,False,Accept
+1728,24,M,Ad. Dip,19,13,1056300,R,True,Reject
+1729,41,M,Mst,8,3,1752625,R,False,Accept
+1730,28,M,Bach,16,5,3552847,R,True,Accept
+1731,72,M,Doct,8,8,6650713,R,False,Accept
+1732,21,F,Bach,15,3,6552503,R,True,Accept
+1733,68,M,Mst,5,5,3022992,R,False,Accept
+1734,37,F,Ad. Dip,12,12,1659351,R,True,Reject
+1735,47,M,Dip,19,6,6174825,R,False,Accept
+1736,46,F,Bach,20,13,2248392,R,True,Accept
+1737,62,M,Bach,8,8,5688746,R,True,Accept
+1738,41,M,Doct,0,0,6490702,R,False,Accept
+1739,60,M,Ad. Dip,9,9,7488205,R,False,Accept
+1740,67,M,Mst,20,8,1960176,R,True,Accept
+1741,47,M,Bach,2,2,3453372,R,False,Reject
+1742,21,M,Dip,0,0,5712077,R,False,Reject
+1743,32,M,Bach,12,3,3081814,O,False,Accept
+1744,37,M,Doct,7,7,2344126,R,True,Accept
+1745,49,M,Bach,12,3,7677453,R,True,Accept
+1746,70,M,Mst,1,1,4400395,R,False,Accept
+1747,26,M,Mst,18,8,7879585,R,False,Accept
+1748,25,M,Bach,11,11,4137087,R,True,Accept
+1749,45,M,Bach,10,5,62100,R,True,Accept
+1750,30,M,Mst,12,12,9506126,O,False,Accept
+1751,73,F,Bach,13,9,1645509,R,False,Accept
+1752,22,M,Doct,18,8,4089728,R,False,Accept
+1753,26,M,Ad. Dip,10,8,9634338,R,True,Accept
+1754,39,M,Doct,4,4,1600707,R,False,Accept
+1755,62,M,Dip,9,9,69650,R,False,Reject
+1756,79,M,Mst,18,5,8440210,R,False,Accept
+1757,29,M,Mst,9,9,747060,R,False,Accept
+1758,67,M,Bach,4,4,749226,R,True,Accept
+1759,42,M,Bach,18,14,4792051,O,False,Accept
+1760,34,M,Bach,2,2,7747297,R,False,Accept
+1761,47,M,Bach,6,6,3483388,R,False,Accept
+1762,73,F,Doct,9,7,5677162,R,False,Accept
+1763,68,M,Mst,5,5,3022992,R,False,Accept
+1764,24,M,Ad. Dip,19,13,1056300,R,True,Reject
+1765,52,M,Mst,1,1,2888043,N,False,Reject
+1766,34,M,Bach,18,10,4739684,R,False,Accept
+1767,48,F,Ad. Dip,2,2,6805823,R,True,Accept
+1768,26,M,P. Doct,6,6,2244337,R,True,Reject
+1769,71,M,P. Doct,6,6,8230205,R,True,Accept
+1770,67,M,Bach,2,2,4330847,R,False,Accept
+1771,22,M,Dip,7,7,3520592,R,False,Accept
+1772,71,F,Ad. Dip,13,9,1393491,R,False,Reject
+1773,78,M,Bach,19,12,7631923,R,False,Accept
+1774,75,M,Ad. Dip,19,5,5155377,R,True,Reject
+1775,63,M,Bach,3,3,2411292,R,False,Accept
+1776,51,M,Mst,8,6,1818944,R,False,Accept
+1777,56,M,P. Doct,1,1,1999332,R,False,Accept
+1778,50,M,Mst,5,5,2909877,R,True,Accept
+1779,79,M,Mst,5,4,651925,R,False,Accept
+1780,39,M,P. Doct,9,9,4072094,R,False,Accept
+1781,50,M,Ad. Dip,11,11,1578598,R,False,Reject
+1782,46,F,Bach,20,13,2248392,R,True,Accept
+1783,69,M,Bach,0,0,4545563,R,True,Accept
+1784,60,M,Mst,19,11,862312,R,False,Reject
+1785,29,M,Bach,19,11,8148691,R,False,Accept
+1786,77,M,Dip,18,11,3460313,R,True,Accept
+1787,42,M,Bach,18,3,8056757,R,False,Accept
+1788,62,M,Doct,2,2,4356905,N,True,Accept
+1789,79,M,Bach,18,12,6535026,R,False,Accept
+1790,41,M,Bach,12,3,3755934,R,False,Accept
+1791,53,F,Ad. Dip,7,7,2915711,R,False,Reject
+1792,77,M,Dip,18,13,4167093,O,False,Accept
+1793,71,M,Doct,0,0,8397564,R,False,Accept
+1794,70,M,Bach,1,1,4001896,R,False,Accept
+1795,48,F,Dip,6,6,5675460,R,False,Accept
+1796,55,M,Bach,7,7,9086933,R,False,Accept
+1797,21,F,Mst,8,7,16890,R,False,Accept
+1798,43,F,Mst,12,12,8574834,R,False,Accept
+1799,77,M,Mst,15,8,3685843,N,False,Accept
+1800,24,F,Mst,7,7,3293023,R,NaN,Accept
+1801,27,M,Dip,12,12,8744413,R,False,Accept
+1802,61,M,Dip,13,10,5533812,O,True,Accept
+1803,72,F,Ad. Dip,19,3,1503033,R,False,Reject
+1804,28,M,Doct,16,13,1422781,R,False,Reject
+1805,57,M,Ad. Dip,14,5,9912721,R,False,Accept
+1806,34,M,Ad. Dip,6,6,2453112,R,False,Reject
+1807,39,M,Doct,6,6,5109740,R,False,Accept
+1808,32,M,Bach,15,3,2541624,R,False,Reject
+1809,60,M,Bach,5,3,3679043,R,False,Accept
+1810,28,M,Doct,19,13,7282131,R,False,Accept
+1811,35,M,Bach,9,4,2489068,R,False,Accept
+1812,57,M,Mst,17,5,4503934,R,False,Accept
+1813,23,M,Dip,17,9,5305177,R,False,Reject
+1814,38,M,Ad. Dip,1,1,2636776,R,False,Reject
+1815,72,M,Bach,14,6,8925422,R,True,Accept
+1816,26,M,Bach,0,0,6467565,R,False,Accept
+1817,32,F,Doct,9,6,5898669,R,False,Reject
+1818,320,M,Bach,12,3,3081814,O,False,Accept
+1819,32,M,Bach,16,10,1013313,R,False,Accept
+1820,35,M,Mst,4,4,1355559,R,True,Reject
+1821,48,M,Mst,1,1,4415868,R,False,Accept
+1822,31,F,Ad. Dip,7,7,2309585,R,False,Reject
+1823,57,M,Bach,3,3,2854227,R,False,Accept
+1824,60,M,Bach,18,5,8049089,R,False,Accept
+1825,43,M,Mst,13,8,3482496,R,False,Accept
+1826,53,F,Ad. Dip,7,7,2915711,R,False,Reject
+1827,59,M,Bach,0,0,9786003,R,False,Accept
+1828,57,M,Bach,3,3,2854227,R,False,Accept
+1829,27,M,Doct,2,2,7275614,R,False,Accept
+1830,31,M,Bach,15,8,9197994,R,False,Reject
+1831,35,M,Dip,2,2,7922793,R,False,Accept
+1832,33,M,NaN,14,4,4581003,R,False,Accept
+1833,62,M,Ad. Dip,8,5,187889,R,True,Reject
+1834,56,M,Dip,2,2,2362103,R,False,Reject
+1835,31,F,Ad. Dip,7,7,2309585,R,False,Reject
+1836,69,M,Dip,8,6,8171432,O,True,Reject
+1837,29,F,Mst,1,1,5273020,R,False,Accept
+1838,25,M,Ad. Dip,18,6,2503612,R,False,Reject
+1839,77,M,Mst,14,3,7804453,R,True,Accept
+1840,75,M,Ad. Dip,20,12,1925567,O,True,Reject
+1841,78,M,Bach,0,0,4660756,R,True,Accept
+1842,42,M,Dip,18,11,745614,R,False,Reject
+1843,21,M,Doct,12,12,3102332,R,False,Accept
+1844,54,M,Dip,13,3,4323553,R,False,Accept
+1845,27,M,Mst,20,3,61101,O,False,Accept
+1846,61,M,Dip,13,10,5533812,O,True,Accept
+1847,40,M,Bach,8,8,933077,R,True,Accept
+1848,53,M,Mst,14,3,6105581,R,False,Accept
+1849,28,M,Doct,8,8,9627656,O,False,Reject
+1850,29,M,Mst,2,2,5557295,R,False,Accept
+1851,39,M,Dip,7,7,6979096,R,False,Accept
+1852,32,F,Ad. Dip,10,10,4552514,R,True,Accept
+1853,50,M,Ad. Dip,1,1,6986502,R,False,Accept
+1854,68,M,Doct,3,3,3055894,R,False,Accept
+1855,24,M,Ad. Dip,19,13,1056300,R,True,Reject
+1856,76,M,Bach,9,9,90178,R,False,Reject
+1857,76,M,Bach,19,5,7524377,R,False,Accept
+1858,68,M,Bach,7,4,6381899,R,True,Accept
+1859,55,M,Bach,1,1,4258515,R,True,Accept
+1860,29,M,Bach,8,8,2137070,R,True,Accept
+1861,44,M,P. Doct,11,11,3091519,R,True,Reject
+1862,57,M,NaN,19,9,6420146,R,True,Accept
+1863,39,M,Bach,7,7,7861257,R,True,Accept
+1864,79,M,P. Doct,20,6,2415720,NaN,False,Accept
+1865,42,M,Bach,16,13,8035027,R,True,Accept
+1866,23,M,Mst,4,4,2952693,R,False,Accept
+1867,30,M,Mst,12,12,9506126,O,False,Accept
+1868,60,M,Bach,10,4,8135531,O,False,Accept
+1869,24,M,Bach,1,1,5656977,R,True,Accept
+1870,77,M,Dip,18,11,3460313,R,True,Accept
+1871,25,M,Ad. Dip,18,6,2503612,R,False,Reject
+1872,59,M,Mst,10,6,4925213,N,True,Accept
+1873,73,M,Doct,16,8,4530669,R,False,Accept
+1874,50,M,Mst,5,5,2909877,R,True,Accept
+1875,65,M,Bach,4,3,8720580,R,True,Accept
+1876,69,M,Dip,9,9,8424081,R,False,Reject
+1877,50,M,Doct,9,4,5301870,R,False,Accept
+1878,26,M,Doct,2,2,3634423,R,True,Accept
+1879,44,M,Doct,10,8,8674628,R,False,Reject
+1880,35,M,Ad. Dip,2,2,4528167,R,False,Accept
+1881,65,M,Bach,2,2,3640092,R,True,Reject
+1882,39,M,Doct,4,4,1600707,R,False,Accept
+1883,78,M,Bach,8,8,3062422,R,False,Accept
+1884,75,F,Mst,13,13,1500447,R,False,Reject
+1885,57,M,Bach,3,3,2854227,R,False,Accept
+1886,63,M,Dip,9,5,8355348,R,True,Accept
+1887,60,M,Mst,15,14,6669896,R,True,Accept
+1888,33,M,P. Doct,9,9,9739112,R,True,Accept
+1889,61,M,Mst,19,3,9685181,R,True,Accept
+1890,26,M,Mst,20,13,9298756,R,False,Accept
+1891,29,F,Dip,3,3,389819,R,False,Reject
+1892,30,M,Dip,2,2,5468664,R,False,Reject
+1893,65,M,Doct,5,5,568591,R,False,Accept
+1894,73,M,Bach,15,3,485180,O,True,Accept
+1895,40,M,Dip,9,7,6877905,R,True,Accept
+1896,22,F,Ad. Dip,16,6,2447892,R,False,Reject
+1897,31,M,Bach,0,0,4981403,R,False,Accept
+1898,79,M,Mst,5,4,651925,R,False,Accept
+1899,22,F,Ad. Dip,16,6,2447892,R,False,Reject
+1900,32,M,Bach,15,3,2541624,R,False,Reject
+1901,68,M,Bach,20,11,6973369,R,False,Reject
+1902,69,M,Mst,8,8,9476109,R,False,Accept
+1903,58,M,Bach,4,4,6519377,R,False,Accept
+1904,25,F,P. Doct,17,9,499939,R,True,Accept
+1905,71,F,Ad. Dip,13,9,1393491,R,False,Reject
+1906,78,M,Mst,8,8,3422262,R,True,Accept
+1907,67,M,Doct,0,0,5317561,R,False,Accept
+1908,56,M,Doct,15,8,9299383,R,False,Reject
+1909,53,F,Ad. Dip,9,7,8025541,R,False,Accept
+1910,78,M,Ad. Dip,18,5,3654298,R,True,Accept
+1911,79,M,Mst,0,0,1687470,R,False,Accept
+1912,70,M,Mst,1,1,4400395,R,False,Accept
+1913,37,M,Doct,7,7,2344126,R,True,Accept
+1914,49,M,Doct,19,9,1625328,R,True,Accept
+1915,43,F,Bach,4,4,7059372,O,False,Accept
+1916,64,M,Ad. Dip,19,5,5004938,R,False,Accept
+1917,77,M,Mst,15,8,3685843,N,False,Accept
+1918,65,M,Bach,19,11,3054126,O,True,Accept
+1919,22,M,Bach,15,7,7655074,R,False,Accept
+1920,35,F,Dip,16,13,8237186,R,False,Reject
+1921,42,M,Dip,4,4,5246829,R,False,Reject
+1922,72,M,Bach,14,11,2175504,R,False,Accept
+1923,39,M,Doct,6,6,5109740,R,False,Accept
+1924,24,M,Ad. Dip,18,4,6258651,R,False,Accept
+1925,34,M,Bach,12,9,6634248,R,False,Accept
+1926,62,M,Mst,19,12,6006615,R,False,Accept
+1927,58,F,Doct,3,3,9397962,R,False,Accept
+1928,70,M,Bach,18,13,1551042,R,False,Accept
+1929,66,M,Ad. Dip,19,8,1336270,R,False,Reject
+1930,61,M,Doct,9,3,8190070,R,True,Accept
+1931,55,M,Bach,13,11,7512179,R,False,Accept
+1932,26,M,Ad. Dip,12,4,5822214,R,False,Reject
+1933,30,M,Ad. Dip,20,11,5671193,R,False,Accept
+1934,78,M,Bach,13,3,6561990,R,False,Accept
+1935,50,M,Bach,11,4,2942291,O,False,Accept
+1936,76,M,Bach,8,8,8237019,R,True,Accept
+1937,75,M,Dip,0,0,1712179,R,False,Reject
+1938,57,M,Doct,12,6,733884,R,False,Accept
+1939,50,M,Doct,7,4,1381568,R,False,Accept
+1940,34,F,Mst,9,8,9705356,R,False,Accept
+1941,40,M,Doct,3,3,6200661,R,False,Accept
+1942,53,M,Ad. Dip,6,6,9352887,R,True,Accept
+1943,63,M,Doct,15,7,2477727,R,False,Accept
+1944,76,M,Dip,3,3,3412117,R,True,Reject
+1945,65,M,Doct,5,5,568591,R,False,Accept
+1946,41,M,Ad. Dip,6,6,1669231,R,False,Reject
+1947,27,M,Ad. Dip,15,11,133954,R,False,Reject
+1948,25,M,Ad. Dip,15,14,1771499,N,False,Reject
+1949,70,M,Bach,1,1,4001896,R,False,Accept
+1950,46,M,Bach,19,11,6178223,O,True,Accept
+1951,58,M,Ad. Dip,19,4,1038909,R,True,Reject
+1952,72,M,Bach,19,6,2791693,R,False,Accept
+1953,73,M,Doct,17,5,5725424,R,False,Accept
+1954,64,F,Dip,9,7,9099029,R,True,Accept
+1955,70,M,Mst,16,11,7667833,R,False,Accept
+1956,27,M,Bach,20,9,1908746,R,False,Accept
+1957,52,M,Mst,2,2,9204815,R,True,Accept
+1958,28,M,Doct,12,12,9846056,R,False,Accept
+1959,34,M,Bach,18,10,4739684,R,False,Accept
+1960,22,M,Ad. Dip,1,1,5733421,R,False,Accept
+1961,52,M,Bach,11,10,8948812,R,True,Accept
+1962,68,M,Doct,16,13,7648698,R,True,Accept
+1963,28,M,Ad. Dip,7,7,3753824,R,False,Accept
+1964,32,M,P. Doct,5,4,3167295,R,True,Accept
+1965,75,M,Ad. Dip,19,5,5155377,R,True,Accept
+1966,50,M,Bach,12,10,9532596,R,False,Accept
+1967,590,F,Mst,1,1,1397666,R,False,Accept
+1968,49,M,Mst,20,3,2683,R,True,Accept
+1969,58,F,Bach,17,10,6109805,R,False,Accept
+1970,46,M,Doct,19,5,4954873,R,False,Accept
+1971,42,M,Mst,1,1,564946,O,False,Accept
+1972,54,M,Mst,8,5,9380914,R,False,Accept
+1973,53,M,Mst,13,3,8841707,R,False,Accept
+1974,21,M,Ad. Dip,11,5,9335043,R,True,Accept
+1975,58,M,Mst,5,5,9400836,R,True,Accept
+1976,67,M,Mst,16,8,6511206,R,False,Accept
+1977,59,F,Doct,1,1,7511735,R,False,Accept
+1978,60,M,Ad. Dip,9,9,7488205,R,False,Accept
+1979,46,M,Bach,19,11,6178223,O,True,Accept
+1980,34,M,Doct,20,3,1303701,R,False,Accept
+1981,66,M,Ad. Dip,19,8,1336270,R,False,Reject
+1982,39,M,Dip,14,8,9574183,R,True,Accept
+1983,38,M,Dip,13,9,7428357,R,True,Reject
+1984,37,M,Ad. Dip,14,12,3741822,R,False,Accept
+1985,77,M,Mst,15,8,3685843,N,False,Accept
+1986,60,M,Doct,1,1,4268171,R,True,Accept
+1987,70,M,Mst,1,1,4400395,R,False,Accept
+1988,310,M,Bach,9,9,9723891,R,True,Accept
+1989,68,M,Dip,10,3,3054835,R,False,Accept
+1990,77,M,Mst,15,8,3685843,N,False,Accept
+1991,71,F,Ad. Dip,13,9,1393491,R,False,Reject
+1992,28,M,Doct,12,12,9846056,R,False,Accept
+1993,71,M,Dip,5,5,5793046,R,False,Accept
+1994,59,F,Mst,1,1,5712282,R,False,Accept
+1995,61,M,Dip,9,4,5316246,R,True,Accept
+1996,50,M,Ad. Dip,3,3,2062048,R,True,Reject
+1997,52,M,Mst,8,6,5811902,R,False,Accept
+1998,41,M,Doct,15,14,5866909,R,False,Accept
+1999,66,F,Bach,3,3,8199311,R,True,Accept
