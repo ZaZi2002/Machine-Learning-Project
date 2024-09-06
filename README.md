@@ -1,7 +1,7 @@
 # Machine Learning Project: Dimensionality Reduction and Ensemble Learning
 
 ## Project Overview
-This project applies **dimensionality reduction** techniques, specifically **Principal Component Analysis (PCA)**, and uses **ensemble learning** methods such as **Random Forests** and **Decision Trees**. The goal is to improve the classification performance on a dataset by optimizing the number of features and weak learners. Key metrics such as accuracy, precision, recall, F1-score, and AUPRC (Area Under Precision-Recall Curve) are used to evaluate the model's performance.
+This project is for Introduction to Machine Learning and applies **dimensionality reduction** techniques, specifically **Principal Component Analysis (PCA)**, and uses **ensemble learning** methods such as **Random Forests** and **Decision Trees**. The goal is to improve the classification performance on a dataset by optimizing the number of features and weak learners. Key metrics such as accuracy, precision, recall, F1-score, and AUPRC (Area Under Precision-Recall Curve) are used to evaluate the model's performance.
 
 ### Key Features:
 - **Dimensionality Reduction with PCA:** Reducing the number of features by maintaining the most variance-rich components.
